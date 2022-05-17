@@ -5,7 +5,7 @@
 </p>
 
   <h2 align="center"> Autor </h2>
-  <table>
+  <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1658361600&v=beta&t=EUW9MZlO8DhQ3ZXz4JUeVyAIk7h94f7WPuV6OSqJdQ0" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
       <br/>
