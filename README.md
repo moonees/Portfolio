@@ -1,4 +1,15 @@
-<h1 align="center">PORTIFOLIO</h1>
+<h1 align="center">Portifólio de API´s</h1>
+
+
+  <h2> Autor </h2>
+  <table align="center">
+   <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1658361600&v=beta&t=EUW9MZlO8DhQ3ZXz4JUeVyAIk7h94f7WPuV6OSqJdQ0" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
+      <br/>
+      Desenvolvedor Back-End 
+     </td>
+   </tr>
+  </table>
 
 <h2 align="center"> API 1° Semestre </h2>
 <h3> INTRODUÇÃO </h3>
@@ -15,10 +26,12 @@
 <p>Como desenvolvedor contribui no desenvolvimento da programação Android (Kondular) e na montagem eletrônica dos hardwares.</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
-* Conhecimento básico em metodologia agile
-* Primeiro contato com o modelo de Product Backlog 
-* Conhecimento básico em transações no banco de dados através de aplicações 
-* Conhecimento de configurações de ambiente
+<ul>
+  <li>Conhecimento básico em metodologia agile</li>
+  <li>Primeiro contato com o modelo de Product Backlog</li> 
+  <li>Conhecimento básico em transações no banco de dados através de aplicações</li> 
+  <li>Conhecimento de configurações de ambiente</li>
+</ul> 
 
 
 <h2 align="center">API 2° SEMESTRE </h2>
@@ -41,11 +54,12 @@
 <p>Como desenvolvedor, trabalhei tanto na modelagem das telas no JavaFX como no desenvolvimento back-end da aplicação, me aprofundando em Java 8</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
-* Conhecimento básico em metodologia agile
-* Primeiro contato com o modelo de Product Backlog 
-* Conhecimento básico em transações no banco de dados através de aplicações 
-* Conhecimento de configurações de ambiente
-
+<ul>
+  <li>Conhecimento básico em metodologia agile</li>
+  <li>Primeiro contato com o modelo de Product Backlog</li> 
+  <li>Conhecimento básico em transações no banco de dados através de aplicações</li> 
+  <li>Conhecimento de configurações de ambiente</li>
+</ul>
 
 <h2 align="center">API 3° SEMESTRE </h2>
 <h3>INTRODUÇÃO</h3>
@@ -64,7 +78,8 @@
 <p>Como desenvolvedor back-end atuei diretamente na implementação das regras de negócio, utilizando Spring Boot com verbos HTTPs para criação dos endpoints, além da implementação da lógica back-end, trabalhei também efetivamente na conexão back-end com front-end.</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS</h3>
-* Aprimoramento na metodologia Agile com Scrum
-* Conhecimento básico com o framework Spring Boot
-* Conhecimento básico em Oracle SQL
-
+<ul>  
+  <li>Aprimoramento na metodologia Agile com Scrum</li>
+  <li>Conhecimento básico com o framework Spring Boot</li>
+  <li>Conhecimento básico em Oracle SQL</li>
+</ul>
