@@ -35,7 +35,7 @@
 </ol>
 
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento para controle da placa Arduino, além de participar da montagem dos hardwares hardwares.</p>
+<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares hardwares.</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
 <p> Durante o projeto aprimorei e obtive conhecimentos em Hard e SoftSkills sendo elas:
