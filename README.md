@@ -48,6 +48,7 @@
 <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas. 
 <p> Durante o projeto obitve conhecimentos básicos em lógica de programação em blocos através do desenvolvimento de comandos no software Kondular e em C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
   </li>
+ </ul> 
 
 <h2 align="center">API 2° SEMESTRE </h2>
 <h3> INTRODUÇÃO </h3>
