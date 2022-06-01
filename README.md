@@ -16,7 +16,7 @@
 
 <h2 align="center"> API 1° Semestre </h2>
 <h3> INTRODUÇÃO </h3>
-<p>O tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
+<p>O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
 
 <h3> Requisitos do sistema </h3>
 <h4> Funcionais </h4>
