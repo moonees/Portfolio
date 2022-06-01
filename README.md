@@ -45,7 +45,7 @@
 <p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, obtive melhoria durante reuniões e denifições do scopo do projeto visando sempre facilitar do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
 </li>
   <li><h4> HardSkills </h4>
-<h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas. 
+    <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas</h5> 
 <p> Durante o projeto obitve conhecimentos básicos em lógica de programação em blocos através do desenvolvimento de comandos no software Kondular e em C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
   </li>
  </ul> 
