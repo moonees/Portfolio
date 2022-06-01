@@ -39,14 +39,15 @@
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
 <p> Durante o projeto aprimorei e obtive conhecimentos em Hard e SoftSkills sendo elas:
-<h4> SoftSkills </h4>
+<ul>
+  <li><h4> SoftSkills </h4></br>
 <h5> SoftSkills é um termo utilizado para nomear habilidades inteperssoais e comportamentais </h5>
 <p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, obtive melhoria durante reuniões e denifições do scopo do projeto visando sempre facilitar do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
-
-<h4> HardSkills </h4>
+</li>
+  <l1><h4> HardSkills </h4></br>
 <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas. 
 <p> Durante o projeto obitve conhecimentos básicos em lógica de programação em blocos através do desenvolvimento de comandos no software Kondular e em C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
-
+  </li>
 
 <h2 align="center">API 2° SEMESTRE </h2>
 <h3> INTRODUÇÃO </h3>
