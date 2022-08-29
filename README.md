@@ -54,11 +54,11 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 
 <h2 align="center">API 2° SEMESTRE </h2>
 <h3> INTRODUÇÃO </h3>
-<p>A partir da parceria entre a FATEC e a empresa Tecsus, os integrantes do grupo realizaram o desenvolvimento de uma plataforma desktop para digitalização das contas de água e luz de seus clientes.</p>
+<p>A partir da parceria entre a FATEC e a empresa Tecsus, foi proposto o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas</p>
 
 
 <h3> OBJETIVO GERAL </h3>
-<p>A plataforma desenvolvida tem como objetivo principal a possibilitação da digitalização, e leitura de relatórios sobre as contas de água e luz dos seus clientes, além de automatizar processos e diminuir tempo de cadastros e prevenção de erros.</p>
+<p>O software desktop desenvolvid tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, além da leitura de relatórios sobre as , além de automatizar processos e diminuir tempo de cadastros e prevenção de erros.</p>
 
 <h3> OBJETIVO ESPECIFICOS </h3>
 <ol>
