@@ -58,7 +58,7 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 
 
 <h3> OBJETIVO GERAL </h3>
-<p>O software desktop desenvolvid tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, além da leitura de relatórios sobre as , além de automatizar processos e diminuir tempo de cadastros e prevenção de erros.</p>
+<p>O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
 
 <h3> OBJETIVO ESPECIFICOS </h3>
 <ol>
