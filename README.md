@@ -16,6 +16,8 @@
 
 <h2 align="center"> API 1° Semestre </h2>
 <h3> INTRODUÇÃO </h3>
+Projeto realizado de forma acadêmica durante o curso de Banco de Dados da faculdade de técnologia FATEC, com a intenção de formentar e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
+<h3> OBJETIVO GERAL</H3>
 <p>O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
 
 <h3> Requisitos do sistema </h3>
