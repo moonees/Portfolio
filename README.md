@@ -71,7 +71,15 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 </ol>
 
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor, trabalhei tanto na modelagem das telas no JavaFX como no desenvolvimento back-end da aplicação, me aprofundando em Java 8</p>
+<p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
+<ol> 
+  <li>
+    Back-end: No desenvolvimento back-end trabalhei com a estruturação das classes de modelo e os objetos de acesso a data(DAO) para comunicação com o banco de dados utilizando a linguagem Java na sua versão 8.
+  </li> 
+  <li>
+    Durante o desenvolvimento front-end trabalhei com a construções das telas utilizando a ferramenta JavaFX
+  </li>
+</ol>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
 <ul>
