@@ -90,7 +90,7 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   utilizando o framework Scrum e definição de cargos como Product Owner, Scrum Master e Desenvolvedores e suas respectivas funções. Foi realizado também o Product Backlog do produto, esta ação favoreceu a equipe na visualização das tarefas necessárias para o exito do projeto e a divisão adequada para cada sprint.
   <li>MySQL</li>
   Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
-  <li>Conhecimento de configurações de ambiente</li>
+  <li>Configurações de ambiente</li>
   Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o minino de problemas possivéis.
 </ul>
 <h4> SoftSkills </h4>
