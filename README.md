@@ -72,21 +72,30 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
-<ol> 
+<ul> 
   <li>
     Back-end: No desenvolvimento back-end trabalhei com a estruturação das classes de modelo e os objetos de acesso a data(DAO) para comunicação com o banco de dados utilizando a linguagem Java na sua versão 8.
   </li> 
   <li>
     Durante o desenvolvimento front-end trabalhei com a construções das telas utilizando a ferramenta JavaFX
   </li>
-</ol>
+</ul>
 
-<h3> CONHECIMENTOS ADQUIRIDOS </h3> 
+<h3> CONHECIMENTOS ADQUIRIDOS </h3>
+<p> Durante o desenvolvimento do projeto adquiri conhecimentos de hardskills e softskills.
+<h4> HardSkills</h4>
 <ul>
-  <li>Conhecimento básico em metodologia agile</li>
-  <li>Primeiro contato com o modelo de Product Backlog</li> 
-  <li>Conhecimento básico em transações no banco de dados através de aplicações</li> 
+  <li>Metodologia agile</li>
+  Primeiro contato com a metodologia agíl e seus conceitos e qual seus beneficios para o desenvolvimento de software, foram aplicados os conceitos de cerimonias
+  utilizando o framework Scrum e definição de cargos como Product Owner, Scrum Master e Desenvolvedores e suas respectivas funções. Foi realizado também o Product Backlog do produto, esta ação favoreceu a equipe na visualização das tarefas necessárias para o exito do projeto e a divisão adequada para cada sprint.
+  <li>MySQL</li>
+  Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
   <li>Conhecimento de configurações de ambiente</li>
+  Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o minino de problemas possivéis.
+</ul>
+<h4> SoftSkills </h4>
+<ul>
+  <li> Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo</li>
 </ul>
 
 <h2 align="center">API 3° SEMESTRE </h2>
@@ -94,7 +103,7 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 <p>Aplicação desenvolvida em parceria com a Embraer, para a otimização do controle e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos.</p>
 
 <h3> OBJETIVO GERAL </h3>
-<p>Desenvolvimento de uma aplicação que mantenham, customizem e versionem as partes dos documentos em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
+<p>Desenvolvimento de uma aplicação que possibilite manter, customizar e versionar as os manuais da aeronaves, além de manter o padrão de arquivo em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
 
 <h3> OBJETIVO ESPECIFICOS</h3>
 <ol>
@@ -105,14 +114,22 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 </ol>
 
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor back-end atuei diretamente na implementação das regras de negócio, utilizando Spring Boot com verbos HTTPs para criação dos endpoints, além da implementação da lógica back-end, trabalhei também efetivamente na conexão back-end com front-end.</p>
+<p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTPs e na comunicação entre a aplicação back-end com o front-end do projeto.
 
 <h3> CONHECIMENTOS ADQUIRIDOS</h3>
+
+<h4> HardSkills</h4>
 <ul>  
-  <li>Aprimoramento na metodologia Agile com Scrum</li>
-  <li>Conhecimento básico com o framework Spring Boot</li>
-  <li>Conhecimento básico em Oracle SQL</li>
+  <li>Metodologia Agile</li>
+  Aprimorei meus conhecimos com o Scrum, durante o decorrer do projeto a equipe implantou a realização da cerimonia Review e plannig para conseguimos revisar tudo o que foi realizado durante aquela sprint ou o que foi pendente. Utilizamos a plannig para planejar tudo o que entraria dentro das sprints.
+  <li>Framework Spring Boot</li>
+  Primeiro contato com o framework Spring Boot para facilitar e agilizar o desenvolvimento com Java, adquiri conhecimentos em como realizar requisições com verbos HTTPs utilizando anotações do Spring, além de como realizar a persistência de dados utilizando JPA.
+  <li>Oracle SQL</li>
+Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional Oracle para armazenamento de dados, além de realizar a conexão entre o banco e api em Java. 
 </ul>
+
+<h4>SoftSkills</h4>
+
 <h2 align="center">API 4º Semestre Banco de Dados</h2>
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
