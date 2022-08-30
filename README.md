@@ -78,6 +78,10 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3>
 <p> Durante o desenvolvimento do projeto adquiri conhecimentos de hardskills e softskills.
+<h4> SoftSkills </h4>
+<ul>
+  <li> Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo</li>
+</ul>
 <h4> HardSkills</h4>
 <ul>
   <li>Metodologia agile</li>
@@ -87,10 +91,6 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
   <li>Configurações de ambiente</li>
   Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o minino de problemas possivéis.
-</ul>
-<h4> SoftSkills </h4>
-<ul>
-  <li> Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo</li>
 </ul>
 
 <h2 align="center">API 3° SEMESTRE </h2>
@@ -112,7 +112,6 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 <p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTPs e na comunicação entre a aplicação back-end com o front-end do projeto.
 
 <h3> CONHECIMENTOS ADQUIRIDOS</h3>
-
 <h4> HardSkills</h4>
 <ul>  
   <li>Metodologia Agile</li>
@@ -133,7 +132,7 @@ O projeto VEMPRACASA tem o objetivo de estimular o apredizado e desenvolvimento 
 <h2> Objetivo geral<h3>
 A proposta imposta pela empresa era de um software que realizasse o agendamento dos espaços da Casa Oracle, visando as regras de limite máximo de pessoas, priorização de agendamentos, aprovação de eventos pendentes e disponibilização de lista de convidados. O projeto teve o prazo estimulado em um semestre com apresentações a cada três semanas para o parceiro.
 Para obter mais informações acesse o <a href="https://github.com/GabrielSG20/API4Sem2021">Github</a> do projeto
-         <h3>Requisitos</h3> 
+ <h3>Requisitos</h3> 
             <ul><li> Utilização de metodologia agíl para planejamento e execução das sprints do projeto.</li></ul>
             <ul><li> Uso da linguagem de programação Java junto ao framework Spring Boot.</li></ul>
             <ul><li> Banco de dados Oracle para armazenamento das informações</li></ul>
