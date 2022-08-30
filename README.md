@@ -20,18 +20,13 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 <h3> OBJETIVO GERAL</H3>
 <p>O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
 
-<h3> Requisitos do sistema </h3>
-<h4> Funcionais </h4>
+<h3> Objetivos especificos </h3>
 <ol>
   <li>Oferecer informações personalizadas sobre os tipos de cultivos, com intuito de facilitar e auxiliar os usuarios durante o plantio</li>
   <li>Realizar a irrigação conforme for configurado pelo usuário</li> 
   <li>Realizar a distribuição de luz conforme for configurado pelo usuário</li> 
   <li>Possibilitar o monitoramento da temperatura de onde a horta está localizada</li>
   <li>Possibilitar o monitoramento da umidade do solo</li>
-</ol> 
-
-<h4> Não funcionais </h4>
-<ol>
   <li> Utilização do serviço Kondular utilizando programação em blocos</li>
   <li> Integração de um hardware a aplicação </li> 
 </ol>
