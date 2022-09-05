@@ -1,10 +1,15 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio tem o intuito demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na Faculdade de Tecnologia de São Paulo - FATEC, sob orientação do Prof. Eduardo Branquinho   
+  Esse portifólio tem o intuito demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na Faculdade de Tecnologia de São Paulo - FATEC, sob orientação do Prof. Diogo Branquinho   
+</p>
+<p align="center">
+ <a href="https://github.com/moonees/Portifolio/blob/main/README.md#-api-1-semestre-">API 1° Semestre</a> •
+ <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-2-semestre-">API 2° Semestre</a> • 
+ <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-3-semestre-">API 3° Semestre</a> • 
+ <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-4%C2%BA-semestre-banco-de-dados">API 4° Semestre</a> • 
 </p>
 
-<align="center" [API 1° Semestre](https://github.com/moonees/Portifolio/blob/main/README.md#-api-1-semestre-) [API 2° Semestre](https://github.com/moonees/Portifolio/blob/main/README.md#api-2-semestre-) [API 3° Semestre](https://github.com/moonees/Portifolio/blob/main/README.md#api-3-semestre-) [API 4° Semestre](https://github.com/moonees/Portifolio/blob/main/README.md#api-4%C2%BA-semestre-banco-de-dados)>
 
   <h2 align="center"> Autor </h2>
   <p> Me chamo Ramon Fernandes, tenho 21 anos, sou de São José dos Campos e curso Banco de Dados na FATEC - Prof. Jessen Vidal, atualmente sou desenvolvedor Backend Junior com foco em Java e Spring. 
