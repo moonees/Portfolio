@@ -127,9 +127,9 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 <h2 align="center">API 4º Semestre Banco de Dados</h2>
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
-<h2>Introdução</h2> 
+<h3>Introdução</h3> 
 Aplicação desenvolvida junto a empresa Oracle para estimular o aprendizado e simular um ambiente de trabalho do desenvolvimento de um site de agendamento de visitas
-<h2> Objetivo geral<h3>
+<h3> Objetivo geral</h3>
 O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de covidados, palestrantes e funcionarios.
 
  <h3>Objetivos Especificos</h3> 
@@ -148,7 +148,9 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
-Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br>
+<ul>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+</ul>
 <h4>HardSkills</h4>
 <ul>
   <li>Criação do Product Backlog através da metodologia Product Backlog Building.</li>
