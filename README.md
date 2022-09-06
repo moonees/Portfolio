@@ -1,7 +1,8 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio tem o intuito demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na Faculdade de Tecnologia de São Paulo - FATEC, sob orientação do Prof. Diogo Branquinho   
+  Esse portifólio tem o intuito de demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC junto a empresas parceiras a instituição de ensino.</br>
+Orientador Prof. Diogo Branquinho   
 </p>
 <p align="center">
   <a href=""></a> •
@@ -22,7 +23,7 @@
    </tr>
   </table>
 
-<h2 align="center"> API 1° Semestre </h2>
+<h2 align="center"> API 1° Semestre - 3RAG </h2>
 <h3> INTRODUÇÃO </h3>
 Projeto realizado de forma acadêmica durante o curso de Banco de Dados da faculdade de técnologia FATEC, com a intenção de formentar e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
 <h3> OBJETIVO GERAL</H3>
@@ -55,7 +56,7 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   </li>
  </ul> 
 
-<h2 align="center">API 2° SEMESTRE </h2>
+<h2 align="center">API 2° SEMESTRE - TRINITY </h2>
 <h3> INTRODUÇÃO </h3>
 <p>A partir da parceria entre a FATEC e a empresa Tecsus, foi proposto o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas</p>
 
@@ -101,7 +102,7 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o minino de problemas possivéis.
 </ul>
 
-<h2 align="center">API 3° SEMESTRE </h2>
+<h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
 <h3>INTRODUÇÃO</h3>
 <p>Aplicação desenvolvida em parceria com a Embraer, para a otimização do controle e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos.</p>
 
@@ -132,7 +133,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <h4>SoftSkills</h4>
 
-<h2 align="center">API 4º Semestre</h2>
+<h2 align="center">API 4º Semestre - VEMPRACASA</h2>
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
