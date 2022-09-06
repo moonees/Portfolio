@@ -4,10 +4,11 @@
   Esse portifólio tem o intuito demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na Faculdade de Tecnologia de São Paulo - FATEC, sob orientação do Prof. Diogo Branquinho   
 </p>
 <p align="center">
+  <a href=""></a> •
  <a href="https://github.com/moonees/Portifolio/blob/main/README.md#-api-1-semestre-">API 1° Semestre</a> •
  <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-2-semestre-">API 2° Semestre</a> • 
  <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-3-semestre-">API 3° Semestre</a> • 
- <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-4%C2%BA-semestre-banco-de-dados">API 4° Semestre</a> • 
+ <a href="https://github.com/moonees/Portifolio/blob/main/README.md#api-4%C2%BA-semestre-banco-de-dados">API 4° Semestre</a> 
 </p>
 
 
@@ -39,14 +40,14 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 </ol>
 
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares hardwares.</p>
+<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares.</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
 <p> Durante o projeto aprimorei e obtive conhecimentos em Hard e SoftSkills sendo elas:
 <ul>
   <li><h4> SoftSkills </h4>
 <h5> SoftSkills é um termo utilizado para nomear habilidades inteperssoais e comportamentais </h5>
-<p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, obtive melhoria durante reuniões e denifições do scopo do projeto visando sempre facilitar do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
+<p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, obtive melhoria durante reuniões e denifições do scopo do projeto visando sempre facilitar o entendimento do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
 </li>
   <li><h4> HardSkills </h4>
     <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas</h5> 
