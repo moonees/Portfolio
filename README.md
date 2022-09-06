@@ -132,7 +132,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <h4>SoftSkills</h4>
 
-<h2 align="center">API 4º Semestre Banco de Dados</h2>
+<h2 align="center">API 4º Semestre</h2>
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
