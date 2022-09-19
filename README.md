@@ -40,10 +40,10 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   <li> Integração de um hardware a aplicação </li> 
 </ol>
 <h3> Tecnologias utilizadas </h3>
-<ol>
+<ul>
   <li>Kondular: a plataforma Kondular foi utilizada para realizar o desenvolvimento das regras de negócio da aplicação através da programação em blocos</li>
   <li>C++: Utilizada a linguagem C++ para o desenvolvimento na plataforma Arduino para controle dos hardwares</li>
-</ol>
+</ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares.</p>
 
