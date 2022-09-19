@@ -78,11 +78,11 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   <li> Trello para gerenciamento das tarefas</li> 
 </ol>
 <h3> Tecnologias utilizadas </h3>
-<ol>
+<ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</li>
   <li>MySQL: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
   <li>GitPod: Ferramenta online utilizada para escrita e manutenção do código desenvolvido</li> 
-</ol>
+</ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
 <ul> 
@@ -126,11 +126,11 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
   <li> Utilização de metodologia Agile para gerenciamento e desenvolvimento do projeto</li>
 </ol>
 <h3>Tecnologias utilizadas</h3>
-<ol>
+<ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
   <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
   <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
-</ol>
+</ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTPs e na comunicação entre a aplicação back-end com o front-end do projeto.
 
@@ -161,14 +161,14 @@ O objetivo da parceria era o desenvolvimento de um softwate que realizasse o age
             <ul><li> Utilização do framework Spring com intuito de facilitar e auxiliar o desenvolvimento da aplicação</li></ul>
             <ul><li> Utilização do Scrum framework para gerenciamento e tomada de decisões dentro do projeto, afim de evitar retrabalhos e erros</li></ul>
             <ul><li> Realizar o deploy da aplicação em um ambiente de nuvem</li></ul>
-            
- <ol>
+ <h3>Tecnologias utilizadas</h3>          
+ <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
   <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
   <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
   <li>AzureCloud: Plataforma de serviços em nuvem, utilizado para a criação do banco de dados em nuvem</li>
   <li>Heroku: Plataforma de serviços em nuvem, utilizado para realização da disponibilização da aplicação em nuvem</li>
-</ol>
+</ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
 Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deploy da aplicação em nuvem</br>
