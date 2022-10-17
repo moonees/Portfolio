@@ -192,3 +192,47 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
   <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
   <li>Deploy de uma aplicação em nuvem.</li>
 </ul>
+
+<h2 align="center">API 5º Semestre - Data Rangers</h2>
+<h3>Introdução</h3> 
+ Aplicação desenvolvida junto a empresa SPC para estimular o aprendizado através da análise de dados por um Data Warehouse 
+<h3> Objetivo geral</h3>
+O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes e aumenta as vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
+ <h3>Objetivos Especificos</h3> 
+            <ul><li> Utilização de linguagem orientada a objetos Java para desenvolvimento da aplicação.</li></ul>
+            <ul><li> Utilização de banco de dados relacional SqlvServer para persistência dos dados.</li></ul>
+            <ul><li> Utilização de banco de dados relacional SqlvServer para criação do Data Warehouse.</li></ul>
+            <ul><li> Utilização do framework Spring com intuito de facilitar e auxiliar o desenvolvimento da aplicação</li></ul>
+            <ul><li> Utilização do Scrum framework para gerenciamento e tomada de decisões dentro do projeto, afim de evitar retrabalhos e erros</li></ul>
+ <h3>Tecnologias utilizadas</h3>          
+ <ul>
+  <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
+  <li>Sql Server: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de daods </li>
+  <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
+  <li>Power BI: Plataforma utilizada para exibição da análise de dados através de gráficos e relatórios </li>
+  <li>Microsoft Azure: Plataforma utilizada para deploy do banco de dados SQL Server em nuvem.
+  <li>CircleCI: Ferramenta utilizada para realização da entrega contínua e integração contínua </li>
+  <li>VueJs: framework para desenvolvimento de aplicações web com um código open source </li>
+  <li>Figma: Ferramenta utilizada para prototipar as telas do sistemas</li>
+  <li>Heroku: Plataforma utilizada para realização do deploy da aplicação</li>
+</ul>
+
+<h3>Contribuições pessoais para o projeto</h3> 
+Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deploy da aplicação em nuvem</br>
+<ul>
+  <li>Back-end: Como desenvolvedor back-end atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e faceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio.</li>
+  <li>Deploy: Realização do deploy da aplicação na Heroku, além da configuração da pipeline para a realização da entrega e integração continua</li>
+</ul>
+
+<h3>CONHECIMENTOS ADQUIRIDOS</h3>
+<h4>SoftSkills</h4>
+<ul>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+</ul>
+<h4>HardSkills</h4>
+<ul>
+  <li>Criação de pipelines para a entegra e integração continua.</li>
+  <li>Aprimoramento das habilidades.</li>
+  <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
+  <li>Deploy do banco de dados em nuvem.</li>
+</ul>
