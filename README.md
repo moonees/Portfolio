@@ -236,3 +236,45 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
   <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
   <li>Deploy do banco de dados em nuvem.</li>
 </ul>
+
+
+<h2 align="center">API 6º Semestre - D-end</h2>
+<h3>Introdução</h3> 
+Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes.
+<h3> Objetivo geral</h3>
+A ferramenta tem como objetivo possibilitar a análise dos dados providos por seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, além de auxiliar na criação de um plano de ação para evitar futuras inconsistências.
+ <h3>Tecnologias utilizadas</h3>          
+ <ul>
+  <li>Python: Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB.</li>
+  <li>MongoDB: Banco de dados não relacional orientado a documentos. Utilizado para o armazenamento dos dados providos dos arquivos ".csv". Junto ao MongoDB foi utilizado o Aggregation Framework para a realização da lógica que identifica inconsistências nos dados providos entre Cliente e Empresa.</li>
+  <li>SQl Server: Banco de dados relacional, nele foram realizados os scripts SQL para prototipação das colunas e tabelas que provem o Data Warehouse.</li> 
+  <li>Power BI: Serviço de análise de negócios, utilizado durante o projeto para o consumo do Data Warehouse, gerando gráficos e métricas das análises realizadas.</li>
+  <li>Microsoft Azure: Plataforma de computação em nuvem utilizada para deploy do Data Warehouse nuvem.
+  <li>Jira: Ferramenta utilizada para a definição, acompanhamento e priorização de tarefas.</li>
+</ul>
+
+<h3>Contribuições pessoais para o projeto</h3> 
+Durante o decorrer do projeto atuei diretamente na parte do desenvolvimento dos Scripts em Python para alimentar o banco de dados MongoDB, fui responsável pelo script que lê o arquivo ".csv"  e realiza o tratamento do dado com o objetivo de deixa-lo legivel para persistência no MongoDB, para isso utilizei da biblioteca pandas que possibilita a análise e a manipulação dos dados recebidos.
+</br>
+Atuei também no desenvolvimento do script de criação de logs da aplicação durante a execução de seus processos. O intuito dos logs é monitorar se durante o processo ocorrem ações inesperadas como erros ou itens executados sem necessidade. Para a realização dessa funcionalidade utilizei a biblioteca Logging do Python.
+</br>
+Contribui também para a criação das collections no MongoDB onde seriam persistidos os dados providos dos arquivos ".csv"
+</br>
+<ul>
+    <li>Criação dos scripts em Python</li>
+    <li>Alimentação do MongoDB</li>
+    <li>Monitoramento dos processos atráves dos Logs</li>
+</ul> 
+
+
+<h3>CONHECIMENTOS ADQUIRIDOS</h3>
+<h4>SoftSkills</h4>
+<ul>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+</ul>
+<h4>HardSkills</h4>
+<ul>
+  <li>Criação de collections no MongoDB.</li>
+  <li>Desenvolvimento de scripts em Python.</li>
+  <li>Conexão entre MongoDB e Python.</li>
+</ul>
