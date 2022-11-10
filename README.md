@@ -26,8 +26,7 @@ Orientador Prof. Diogo Branquinho
 <h2 align="center"> API 1° Semestre - 3RAG </h2>
 <h3> INTRODUÇÃO </h3>
 Projeto realizado de forma acadêmica durante o curso de Banco de Dados da faculdade de técnologia FATEC, com a intenção de formentar e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
-<h3> OBJETIVO GERAL</H3>
-<p>O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
+O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
 
 <h3> Objetivos especificos </h3>
 <ol>
@@ -63,25 +62,14 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 <h2 align="center">API 2° SEMESTRE - TRINITY </h2>
 <h3> INTRODUÇÃO </h3>
 <p>A partir da parceria entre a FATEC e a empresa Tecsus, foi proposto o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas</p>
+O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
 
-
-<h3> OBJETIVO GERAL </h3>
-<p>O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
-
-<h3> OBJETIVO ESPECIFICOS </h3>
-<ol>
-  <li> Utilização de metodologia Agile para desenvolvimento e gerenciamento do projeto</li>
-  <li> Utilização de linguagem Java</li>
-  <li> Utilização de banco relacional MySQL</li>
-  <li> JavaFX para criação de interface gráfica</li> 
-  <li> GitPod para desenvolvimento do código</li> 
-  <li> Trello para gerenciamento das tarefas</li> 
-</ol>
 <h3> Tecnologias utilizadas </h3>
 <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</li>
   <li>MySQL: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
   <li>GitPod: Ferramenta online utilizada para escrita e manutenção do código desenvolvido</li> 
+  <li>Trello: Aplicativo de gerenciamento de projeto utilizado para monitorar e organizar tarefas</li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
@@ -113,22 +101,11 @@ Projeto realizado de forma acadêmica durante o curso de Banco de Dados da facul
 
 <h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
 <h3>INTRODUÇÃO</h3>
-<p>Aplicação desenvolvida em parceria com a Embraer, para a otimização do controle e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos.</p>
-
-<h3> OBJETIVO GERAL </h3>
-<p>Desenvolvimento de uma aplicação que possibilite manter, customizar e versionar as os manuais da aeronaves, além de manter o padrão de arquivo em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
-
-<h3> OBJETIVO ESPECIFICOS</h3>
-<ol>
-  <li> Utilização de linguagem orientada a objetos Java</li>
-  <li> Utilização de banco de dados relacionais Oracle</li>
-  <li> Utilização de framework Spring Boot</li>
-  <li> Utilização de metodologia Agile para gerenciamento e desenvolvimento do projeto</li>
-</ol>
+<p>Aplicação desenvolvida em parceria com a Embraer, para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos além de manter o padrão de arquivo em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
-  <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
+  <li>Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação</li>
   <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
@@ -151,17 +128,8 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
-Aplicação desenvolvida junto a empresa Oracle para estimular o aprendizado e simular um ambiente de trabalho do desenvolvimento de um site de agendamento de visitas
-<h3> Objetivo geral</h3>
-O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de covidados, palestrantes e funcionarios.
-
- <h3>Objetivos Especificos</h3> 
-            <ul><li> Utilização de linguagem orientada a objetos Java para desenvolvimento da aplicação.</li></ul>
-            <ul><li> Utilização de banco de dados relacional Oracle para persistência dos dados.</li></ul>
-            <ul><li> Utilização do framework Spring com intuito de facilitar e auxiliar o desenvolvimento da aplicação</li></ul>
-            <ul><li> Utilização do Scrum framework para gerenciamento e tomada de decisões dentro do projeto, afim de evitar retrabalhos e erros</li></ul>
-            <ul><li> Realizar o deploy da aplicação em um ambiente de nuvem</li></ul>
- <h3>Tecnologias utilizadas</h3>          
+Aplicação desenvolvida junto a empresa Oracle para estimular o aprendizado e simular um ambiente de trabalho do desenvolvimento de um site de agendamento de visitas.
+O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de covidados, palestrantes e funcionarios.        
  <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
   <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
@@ -195,19 +163,11 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
 <h3>Introdução</h3> 
- Aplicação desenvolvida junto a empresa SPC para estimular o aprendizado através da análise de dados por um Data Warehouse 
-<h3> Objetivo geral</h3>
-O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes e aumenta as vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
- <h3>Objetivos Especificos</h3> 
-            <ul><li> Utilização de linguagem orientada a objetos Java para desenvolvimento da aplicação.</li></ul>
-            <ul><li> Utilização de banco de dados relacional SqlvServer para persistência dos dados.</li></ul>
-            <ul><li> Utilização de banco de dados relacional SqlvServer para criação do Data Warehouse.</li></ul>
-            <ul><li> Utilização do framework Spring com intuito de facilitar e auxiliar o desenvolvimento da aplicação</li></ul>
-            <ul><li> Utilização do Scrum framework para gerenciamento e tomada de decisões dentro do projeto, afim de evitar retrabalhos e erros</li></ul>
+O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
-  <li>Sql Server: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de daods </li>
+  <li>SQL Server: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de daods </li>
   <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
   <li>Power BI: Plataforma utilizada para exibição da análise de dados através de gráficos e relatórios </li>
   <li>Microsoft Azure: Plataforma utilizada para deploy do banco de dados SQL Server em nuvem.
