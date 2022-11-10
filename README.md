@@ -200,9 +200,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 
 <h2 align="center">API 6º Semestre - D-end</h2>
 <h3>Introdução</h3> 
-Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes.
-<h3> Objetivo geral</h3>
-A ferramenta tem como objetivo possibilitar a análise dos dados providos por seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, além de auxiliar na criação de um plano de ação para evitar futuras inconsistências.
+Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
   <li>Python: Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB.</li>
