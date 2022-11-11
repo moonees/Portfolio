@@ -28,20 +28,10 @@ Orientador Prof. Diogo Branquinho
 Projeto realizado de forma acadêmica durante o curso de Banco de Dados da faculdade de técnologia FATEC, com a intenção de formentar e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
 O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
 
-<h3> Objetivos especificos </h3>
-<ol>
-  <li>Oferecer informações personalizadas sobre os tipos de cultivos, com intuito de facilitar e auxiliar os usuarios durante o plantio</li>
-  <li>Realizar a irrigação conforme for configurado pelo usuário</li> 
-  <li>Realizar a distribuição de luz conforme for configurado pelo usuário</li> 
-  <li>Possibilitar o monitoramento da temperatura de onde a horta está localizada</li>
-  <li>Possibilitar o monitoramento da umidade do solo</li>
-  <li> Utilização do serviço Kondular utilizando programação em blocos</li>
-  <li> Integração de um hardware a aplicação </li> 
-</ol>
 <h3> Tecnologias utilizadas </h3>
 <ul>
-  <li>Kondular: a plataforma Kondular foi utilizada para realizar o desenvolvimento das regras de negócio da aplicação através da programação em blocos</li>
-  <li>C++: Utilizada a linguagem C++ para o desenvolvimento na plataforma Arduino para controle dos hardwares</li>
+  <li>Kondular: Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples atráves da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</li>
+  <li>C++: Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares</li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares.</p>
