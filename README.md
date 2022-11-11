@@ -17,7 +17,7 @@ Orientador Prof. Diogo Branquinho
   <p> Me chamo Ramon Fernandes, tenho 21 anos, sou de São José dos Campos e curso Banco de Dados na FATEC - Prof. Jessen Vidal, atualmente sou desenvolvedor Backend Junior com foco em Java e Spring. O modelo de apredizado através de projetos integrados em conjunto a empresas parceiras, trazendo problema atuais e reais para dentro do convivio acadêmico, me praparou e forneceu o conhecimento necessário para que eu conseguisse adentar no mercado de trabalho.
   <table align="center">
    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_800_800/0/1621870382930?e=1667433600&v=beta&t=NQcoieDJF_JzgBwb-_4W-Bt8N2BpGZIdMxd58p1NUUQ" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
+    <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="[https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_800_800/0/1621870382930?e=1667433600&v=beta&t=NQcoieDJF_JzgBwb-_4W-Bt8N2BpGZIdMxd58p1NUUQ](https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_800_800/0/1621870382930?e=1673481600&v=beta&t=1c73r-lJQ_pL4diSLO24djr-Twkvotuc2evLBlsXVpQ)" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
       <br/>
      </td>
    </tr>
