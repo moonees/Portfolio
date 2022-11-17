@@ -58,10 +58,18 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
-  <li><a href="https://www.java.com/pt-BR">Java</a>: Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</li>
-  <li>MySQL: Banco de dados relacional utilizado para armazenar os dados processados pela aplicação</li>
-  <li>GitPod: Plataforma para desenvolvimento em nuvem, utilizada para escrita e manutenção do código desenvolvido</li> 
-  <li>Trello: Aplicativo de gerenciamento de projeto utilizado para monitorar e organizar tarefas</li>
+  <li><a href="https://www.java.com/pt-BR">Java:</a>
+    <ul>Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</ul>
+  </li>
+  <li><a href="https://www.mysql.com/">MySQL:</a>
+    <ul> Banco de dados relacional utilizado para armazenar os dados processados pela aplicação</ul>
+  </li>
+  <li><a href="https://www.gitpod.io/">GitPod:</a>
+    <ul> Plataforma para desenvolvimento em nuvem, utilizada para escrita e manutenção do código desenvolvido</ul>
+  </li> 
+  <li><a href="https://trello.com/home">Trello:</a>
+    <ul> Aplicativo de gerenciamento de projeto utilizado para monitorar e organizar tarefas</ul>
+  </li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
@@ -96,9 +104,15 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 <p>Aplicação desenvolvida em parceria com a Embraer, para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos além de manter o padrão de arquivo em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
-  <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
-  <li>Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação</li>
-  <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
+  <li><a href="https://www.java.com/pt-BR">Java:</a>
+    <ul>Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Oracle:</a>
+    Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
+    <ul>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
+  </li> 
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
 <p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTPs e na comunicação entre a aplicação back-end com o front-end do projeto.
@@ -125,11 +139,21 @@ O objetivo da parceria era o desenvolvimento de um softwate que realizasse o age
 
 <h3>Tecnologias utilizadas</h3>
  <ul>
-  <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
-  <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
-  <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
-  <li>AzureCloud: Plataforma de serviços em nuvem, utilizado para a criação do banco de dados em nuvem</li>
-  <li>Heroku: Plataforma de serviços em nuvem, utilizado para realização da disponibilização da aplicação em nuvem</li>
+  <li><a href="https://www.java.com/pt-BR">Java:</a>
+    <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Oracle:</a>
+    <ul> Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
+    <ul> Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
+  </li> 
+  <li><a href="https://www.java.com/pt-BR">AzureCloud:</a>
+    <ul> Plataforma de serviços em nuvem, utilizado para a criação do banco de dados em nuvem</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Heroku:</a>
+    <ul> Plataforma de serviços em nuvem, utilizado para realização da disponibilização da aplicação em nuvem</ul>
+  </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
@@ -160,15 +184,33 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
-  <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
-  <li>SQL Server: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de daods </li>
-  <li>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</li> 
-  <li>Power BI: Plataforma utilizada para exibição da análise de dados através de gráficos e relatórios </li>
-  <li>Microsoft Azure: Plataforma utilizada para deploy do banco de dados SQL Server em nuvem.
-  <li>CircleCI: Ferramenta utilizada para realização da entrega contínua e integração contínua </li>
-  <li>VueJs: framework para desenvolvimento de aplicações web com um código open source </li>
-  <li>Figma: Ferramenta utilizada para prototipar as telas do sistemas</li>
-  <li>Heroku: Plataforma utilizada para realização do deploy da aplicação</li>
+  <li><a href="https://www.java.com/pt-BR">Java:</a>
+    <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">SQL Server:</a>
+    <ul> Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de             dados</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
+    <ul>Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação       HTTP e criação das classes de segurança do projeto</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Power BI:</a>
+    <ul> Plataforma utilizada para exibição da análise de dados através de gráficos e relatórios</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Microsoft Azure:</a>
+    <ul>Plataforma utilizada para deploy do banco de dados SQL Server em nuvem</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">CircleCI:</a>
+    <ul>Ferramenta utilizada para realização da entrega contínua e integração contínua</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">VueJs:</a>
+    <ul>Framework para desenvolvimento de aplicações web com um código open source</ul>
+  </li>
+  <li><a href="https://www.java.com/pt-BR">Figma:</a>
+    <ul>Ferramenta utilizada para prototipar as telas do sistemas</ul>
+  </li>
+   <li><a href="https://www.java.com/pt-BR">Heroku:</a>
+    <ul>Plataforma utilizada para realização do deploy da aplicação</ul>
+  </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
@@ -195,14 +237,26 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h2 align="center">API 6º Semestre - D-end</h2>
 <h3>Introdução</h3> 
 Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
- <h3>Tecnologias utilizadas</h3>          
+ <h3>Tecnologias utilizadas</h3> 
  <ul>
-  <li>Python: Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB.</li>
-  <li>MongoDB: Banco de dados não relacional orientado a documentos. Utilizado para o armazenamento dos dados providos dos arquivos ".csv". Junto ao MongoDB foi utilizado o Aggregation Framework para a realização da lógica que identifica inconsistências nos dados providos entre Cliente e Empresa.</li>
-  <li>SQl Server: Banco de dados relacional, nele foram realizados os scripts SQL para prototipação das colunas e tabelas que provem o Data Warehouse.</li> 
-  <li>Power BI: Serviço de análise de negócios, utilizado durante o projeto para o consumo do Data Warehouse, gerando gráficos e métricas das análises realizadas.</li>
-  <li>Microsoft Azure: Plataforma de computação em nuvem utilizada para deploy do Data Warehouse nuvem.
-  <li>Jira: Ferramenta utilizada para a definição, acompanhamento e priorização de tarefas.</li>
+ <li><a href="https://www.java.com/pt-BR">Python:</a>
+    <ul>Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB</ul>
+ </li>
+  <li><a href="https://www.java.com/pt-BR">MongoDB:</a>
+    <ul>Banco de dados não relacional orientado a documentos. Utilizado para o armazenamento dos dados providos dos arquivos ".csv". Junto ao MongoDB foi utilizado o Aggregation Framework para a realização da lógica que identifica inconsistências nos dados providos entre Cliente e Empresa</ul>
+ </li>
+ <li><a href="https://www.java.com/pt-BR">SQl Server:</a>
+    <ul>Banco de dados relacional, nele foram realizados os scripts SQL para prototipação das colunas e tabelas que provem o Data Warehouse</ul>
+ </li>
+  <li><a href="https://www.java.com/pt-BR">Power BI:</a>
+    <ul>Serviço de análise de negócios, utilizado durante o projeto para o consumo do Data Warehouse, gerando gráficos e métricas das análises realizadas</ul>
+ </li>
+ <li><a href="https://www.java.com/pt-BR">Microsoft Azure:</a>
+    <ul>Plataforma de computação em nuvem utilizada para deploy do Data Warehouse nuvem</ul>
+ </li>
+   <li><a href="https://www.java.com/pt-BR">Jira:</a>
+    <ul> Ferramenta utilizada para a definição, acompanhamento e priorização de tarefas</ul>
+ </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
