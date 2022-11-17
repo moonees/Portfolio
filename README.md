@@ -108,7 +108,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
     <ul>Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
   </li>
   <li><a href="https://www.java.com/pt-BR">Oracle:</a>
-    Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação
+    <ul>Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação</ul>
   </li>
   <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
     <ul>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
