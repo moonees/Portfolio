@@ -119,7 +119,9 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
 Aplicação desenvolvida junto a empresa Oracle para estimular o aprendizado e simular um ambiente de trabalho do desenvolvimento de um site de agendamento de visitas.
-O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de covidados, palestrantes e funcionarios.        
+O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de convidados, palestrantes e funcionários. 
+
+<h3>Tecnologias utilizadas</h3>
  <ul>
   <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</li>
   <li>Oracle: Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</li>
