@@ -163,7 +163,7 @@ O objetivo da parceria era o desenvolvimento de um softwate que realizasse o age
 <h3>Contribuições pessoais para o projeto</h3> 
 Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deploy da aplicação em nuvem</br>
 <ul>
-  <li>Back-end: Como desenvolvedor back-end atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e faceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, além de ter a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento.</li>
+  <li>Back-end: Como desenvolvedor back-end atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, além de ter a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento.</li>
   <li>Deploy: Realização do deploy da aplicação na Heroku e do Banco de dados no AzureCloud, além de participar da configuração do ambiente para que ambos os deploys ocorresse com sucesso</li>
 </ul>
 
