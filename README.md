@@ -58,7 +58,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
-  <li>Java: Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</li>
+  <li><a href="https://www.java.com/pt-BR">Java</a>: Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</li>
   <li>MySQL: Banco de dados relacional utilizado para armazenar os dados processados pela aplicação</li>
   <li>GitPod: Plataforma para desenvolvimento em nuvem, utilizada para escrita e manutenção do código desenvolvido</li> 
   <li>Trello: Aplicativo de gerenciamento de projeto utilizado para monitorar e organizar tarefas</li>
