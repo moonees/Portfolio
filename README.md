@@ -32,10 +32,10 @@ O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manuten�
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
-  <li><a href="https://www.java.com/pt-BR">Kondular:</a>
+  <li><a href="https://www.kodular.io/">Kondular:</a>
     <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples atráves da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
   </li>
-    <li><a href="https://www.java.com/pt-BR">C++:</a>
+    <li><a href="https://cplusplus.com/">C++:</a>
     <ul> Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares</ul>
   </li>
 </ul>
