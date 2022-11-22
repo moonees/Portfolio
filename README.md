@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio tem o intuito de demonstrar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC junto a empresas parceiras a instituição de ensino.</br>
+  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino.</br>
 Orientador Prof. Diogo Branquinho   
 </p>
 <p align="center">
@@ -27,8 +27,8 @@ Orientador Prof. Diogo Branquinho
 
 <h2 align="center"> API 1° Semestre - 3RAG </h2>
 <h3> INTRODUÇÃO </h3>
-Projeto realizado de forma acadêmica durante o curso de Banco de Dados da faculdade de técnologia FATEC, com a intenção de formentar e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
-O projeto denominado 3RAG tem como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas   .</p>
+Projeto realizado em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
+O projeto denominado 3RAG tinha como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas.</p>
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
