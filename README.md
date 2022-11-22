@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos realizados durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino.</br>
+  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino.</br>
 Orientador Prof. Diogo Branquinho   
 </p>
 <p align="center">
@@ -16,7 +16,7 @@ Orientador Prof. Diogo Branquinho
 
 
   <h2 align="center"> Autor </h2>
-  <p> Me chamo Ramon Fernandes, tenho 21 anos, sou de São José dos Campos e curso Banco de Dados na FATEC - Prof. Jessen Vidal, atualmente sou desenvolvedor Backend Junior com foco em Java e Spring. O modelo de apredizado através de projetos integrados em conjunto a empresas parceiras, trazendo problema atuais e reais para dentro do convivio acadêmico, me praparou e forneceu o conhecimento necessário para que eu conseguisse adentar no mercado de trabalho.
+  <p> Me chamo Ramon Fernandes, tenho 21 anos e sou de São José dos Campos, obtive o primeiro contato com programação ainda no ensino médio durante meu curso técnico de mecatrônica, porém só fui realmente a obter conhecimento aprofundado quando inicie no curso de Banco de Dados na FATEC - Prof. Jessen Vidal no primeiro semestre de 2020. Atualmente sou desenvolvedor backend junior com foco em Java e Spring Boot na empresa DTI Digital. O modelo de apredizado através de projetos integrados me praparou e forneceu o conhecimento necessário para que eu conseguisse minha primeira oportunidade na área.
   <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1674086400&v=beta&t=IaYYoNDehE9a_aFNQF2aKK4zSF7Z-TxRPlRIA-lr3sY" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
@@ -27,16 +27,25 @@ Orientador Prof. Diogo Branquinho
 
 <h2 align="center"> API 1° Semestre - 3RAG </h2>
 <h3> INTRODUÇÃO </h3>
-Projeto realizado em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe.
-O projeto denominado 3RAG tinha como objetivo facilitar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile. O aplicativo possibilita a configurações de determinadas ações como consumo de água e consumo de energia para cada cutivo, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas.</p>
+Projeto desenvolvido em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe através de um tema livre que possibilitasse a integração entre um software e um hardware.
+O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automatizar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile e sensores controlados por um microcontrolador. Através do aplicativo que recebe as informações providas pelo Arduino o usuário consegue visualizar dados como o nível de umidade do solo e nível de iluminação, sabendo se é necessário regar ou não seus cultivos, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas.</p>
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
   <li><a href="https://www.kodular.io/">Kondular:</a>
     <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples atráves da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
   </li>
-    <li><a href="https://cplusplus.com/">C++:</a>
+  <li><a href="https://cplusplus.com/">C++:</a>
     <ul> Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares</ul>
+  </li>
+  <li><a href="https://www.arduino.cc/">Arduino:</a>
+    <ul> Placa eletrônica que possui um microcontrolador, utilizada no projeto pra realizar a conexão entre o aplicativo mobile e os sensores de monitoramento de umidade do solo e luminosidade</ul>
+  </li>
+  <li><a href="">Sensor de chuva:</a>
+    <ul> Sensor de chuva utilizado durante o projeto para monitorar quais dias teriam ocorridos chuvas</ul>
+  </li>
+   <li><a href="">Sensor de umidade do solo:</a>
+    <ul> Sensor utilizado para o monitoramento do solo, informando ao aplicativo quando seria necessário a irrigação do cultivo</ul>
   </li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
@@ -51,7 +60,7 @@ O projeto denominado 3RAG tinha como objetivo facilitar o monitoramento e manute
 </li>
   <li><h4> HardSkills </h4>
     <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas</h5> 
-<p> Durante o projeto obitve conhecimentos básicos em lógica de programação em blocos através do desenvolvimento de comandos no software Kondular e em C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
+<p> Durante o projeto obitve conhecimentos básicos em lógica de programação utilizando programação em blocos para o desenvolvimento de comandos na plataforma Kondular e na linguagem C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
   </li>
  </ul> 
 
