@@ -177,7 +177,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
   <li>Criação do Product Backlog através da metodologia Product Backlog Building.</li>
   <li>Visão do que seria uma entrega de valor para o cliente.</li>
   <li>Primeiro contato com questões de segurança, pelo uso do Spring Security.</li>
-  <li>Uso de padrões de projeto e suas funcionalides dentro da aplicação.</li>
+  <li>Uso de padrões de projeto e suas funcionalidades dentro da aplicação.</li>
   <li>Criação de serviço de envio de email para notificação dos convidados do evento, de forma automática e dinâmica.</li>
   <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
   <li>Deploy de uma aplicação em nuvem.</li>
