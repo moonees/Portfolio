@@ -155,9 +155,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
-Aplicação desenvolvida junto a empresa Oracle para estimular o aprendizado e simular um ambiente de trabalho do desenvolvimento de um site de agendamento de visitas.
-O objetivo da parceria era o desenvolvimento de um softwate que realizasse o agendamento dos ambientes da "Casa Oracle", respeitando o limite máximo de pessoas vigentes durante a pandemia do Covid-19, priorização e aprovação de eventos, além de prover lista de convidados, palestrantes e funcionários. 
-
+Durante o quarto semestre realizou uma parceira com a empresa Oracle, onde foi proposto o desenvolvimento de uma aplicação web que gerenciasse os agendamento do espaço da casa Oracle, possibilitando o agendamento dos ambientes da casa Oracle respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de da funcionalidade de preenchimento de lista de convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos devido a pandemia do Covid-19.
 <h3>Tecnologias utilizadas</h3>
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
