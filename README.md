@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino.</br>
+  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino, com o auxílio do orientador Prof. Diogo Branquinho.</br>
 Orientador Prof. Diogo Branquinho   
 </p>
 <p align="center">
@@ -36,37 +36,38 @@ O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automat
     <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples atráves da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
   </li>
   <li><a href="https://cplusplus.com/">C++:</a>
-    <ul> Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares</ul>
+    <ul> Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares.</ul>
   </li>
   <li><a href="https://www.arduino.cc/">Arduino:</a>
-    <ul> Placa eletrônica que possui um microcontrolador, utilizada no projeto pra realizar a conexão entre o aplicativo mobile e os sensores de monitoramento de umidade do solo e luminosidade</ul>
+    <ul> Placa eletrônica que possui um microcontrolador, utilizada no projeto pra realizar a conexão entre o aplicativo mobile e os sensores de monitoramento de umidade do solo e luminosidade.</ul>
   </li>
   <li><a href="">Sensor de chuva:</a>
-    <ul> Sensor de chuva utilizado durante o projeto para monitorar quais dias teriam ocorridos chuvas</ul>
+    <ul> Sensor de chuva utilizado durante o projeto para a detecção dos níveis de chuva através da mediçaõ da intensidade das gotas da chuva.</ul>
   </li>
    <li><a href="">Sensor de umidade do solo:</a>
-    <ul> Sensor utilizado para o monitoramento do solo, informando ao aplicativo quando seria necessário a irrigação do cultivo</ul>
+    <ul> Sensor utilizado para o monitoramento do solo, informando ao aplicativo quando seria necessário a irrigação do cultivo.</ul>
   </li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da programação Android em blocos através software Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares.</p>
+<p>Como desenvolvedor contribui durante o projeto no desenvolvimento da lógica de programação utilizada no aplicativo Android utilizando a plataforma Kondular e no desenvolvimento em C++ para controle da placa Arduino, além de participar da montagem dos hardwares que enviariam informações para o aplicativo.</p>
 
 <h3> CONHECIMENTOS ADQUIRIDOS </h3> 
 <p> Durante o projeto aprimorei e obtive conhecimentos em Hard e SoftSkills sendo elas:
 <ul>
   <li><h4> SoftSkills </h4>
 <h5> SoftSkills é um termo utilizado para nomear habilidades inteperssoais e comportamentais </h5>
-<p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, obtive melhoria durante reuniões e denifições do scopo do projeto visando sempre facilitar o entendimento do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
+<p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, visando sempre facilitar o entendimento do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
 </li>
   <li><h4> HardSkills </h4>
     <h5> HardSkill diferente das SoftSkills, é um termo para nomear as habilidades técnicas</h5> 
-<p> Durante o projeto obitve conhecimentos básicos em lógica de programação utilizando programação em blocos para o desenvolvimento de comandos na plataforma Kondular e na linguagem C++ durante a programação para o controle da placa microcontroladora Arduino. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
+<p>Durante o projeto obtive conhecimentos básicos em lógica de programação com a programação em blocos utilizada para realizar o desenvolvimento de comandos na plataforma Kondular e na linguagem C++ durante a programação para o controle da placa microcontroladora Arduino que controlaria os sensores de umidade do solo e sensor de chuva. Aprimorei minhas habilidades na montagem de hardwares durante a integração dos sensores e o Arduino.
   </li>
  </ul> 
 
 <h2 align="center">API 2° SEMESTRE - TRINITY </h2>
+<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3> INTRODUÇÃO </h3>
-<p>A partir da parceria entre a FATEC e a empresa Tecsus, foi proposto o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas</p>
+<p>Durante o segundo semestre de minha graduação a empresa TECSUS realizou uma parceira com a FATEC - Prof. Jessen Vidal, onde foi apresentado um problema sobre a digitalização das contas de água e luz que ocorria dentro da empresa, a partir disso a equipe propos o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas.</p>
 O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
 
 <h3> Tecnologias utilizadas </h3>
@@ -80,6 +81,9 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
   <li><a href="https://www.gitpod.io/">GitPod:</a>
     <ul> Plataforma para desenvolvimento em nuvem, utilizada para escrita e manutenção do código desenvolvido</ul>
   </li> 
+    <li><a href="https://openjfx.io/">JavaFX:</a>
+    <ul> Plataforma de software multimídia utilizada para criação de interfaces gráficas, utilizando a linguagem Java.</ul>
+  </li> 
   <li><a href="https://trello.com/home">Trello:</a>
     <ul> Aplicativo de gerenciamento de projeto utilizado para monitorar e organizar tarefas</ul>
   </li>
@@ -88,10 +92,10 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 <p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
 <ul> 
   <li>
-    Back-end: No desenvolvimento back-end trabalhei com a estruturação das classes de modelo e os objetos de acesso a data(DAO) para comunicação com o banco de dados utilizando a linguagem Java na sua versão 8.
+    No desenvolvimento back-end trabalhei com a estruturação das classes de modelo, criação das classes de acesso ao banco de dados para realização de inserções, atualizações, deleções e consultas no SGBD MySQL, utilizando a linguagem Java na sua versão 8.
   </li> 
   <li>
-    Durante o desenvolvimento front-end trabalhei com a construções das telas utilizando a ferramenta JavaFX
+    Durante o desenvolvimento front-end, atuei com a estruturação das telas utilizando a ferramenta JavaFX
   </li>
 </ul>
 
@@ -107,28 +111,32 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
   Primeiro contato com a metodologia agíl e seus conceitos e qual seus beneficios para o desenvolvimento de software, foram aplicados os conceitos de cerimonias
   utilizando o framework Scrum e definição de cargos como Product Owner, Scrum Master e Desenvolvedores e suas respectivas funções. Foi realizado também o Product Backlog do produto, esta ação favoreceu a equipe na visualização das tarefas necessárias para o exito do projeto e a divisão adequada para cada sprint.
   <li>MySQL</li>
-  Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
+  Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco de dados e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
   <li>Configurações de ambiente</li>
-  Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o minino de problemas possivéis.
+  Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o mínino de problemas possivéis.
 </ul>
 
 <h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
+<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>INTRODUÇÃO</h3>
-<p>Aplicação desenvolvida em parceria com a Embraer, para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento e geração de maneira eficaz desses documentos além de manter o padrão de arquivo em PDF, seguindo as regras e especificações apontadas pelo cliente.</p>
+<p>Durante o 3°Semestre da graduação, através de uma parceria entre a FATEC -  Prof. Jessen Vidal e a empre Embraer, foi proposto o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
-    <ul>Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
+    <ul>Linguagem orientada a objetos utilizada para desenvolvimento da aplicação backend</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Oracle:</a>
-    <ul>Oracle: Banco de dados relacional utilizado para armazenar os dados que são processados pela aplicação</ul>
+  <li><a href="https://www.mysql.com/">MySQL:</a>
+    <ul>SGBD relacional utilizado para armazenamento e manipulação dos dados que eram processados pela aplicação</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
-    <ul>Spring Boot: Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
+  <li><a href="https://spring.io/">Spring Boot:</a>
+    <ul>SFramework open source para aumento de produtividade e facilitação no desenvolvimento, utilizado principalmente para a criação dos endpoints para comunicação HTTP.</ul>
+  </li> 
+  <li><a href="https://spring.io/">Thymeleaf:</a>
+    <ul>Mecanismo de modelo Java XML/XHTML/HTML5 baseado na arquitetura MVC, utilizado durante o projeto no desenvolvimento Front-End da aplicação.</ul>
   </li> 
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTPs e na comunicação entre a aplicação back-end com o front-end do projeto.
+<p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTP e na comunicação entre a aplicação back-end com o front-end do projeto.
 
 <h3> CONHECIMENTOS ADQUIRIDOS</h3>
 <h4> HardSkills</h4>
@@ -193,6 +201,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 </ul>
 
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
+<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
 O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
  <h3>Tecnologias utilizadas</h3>          
@@ -248,6 +257,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 
 
 <h2 align="center">API 6º Semestre - D-end</h2>
+<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
 Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
  <h3>Tecnologias utilizadas</h3> 
