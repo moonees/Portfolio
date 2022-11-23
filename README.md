@@ -65,7 +65,7 @@ O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automat
  </ul> 
 
 <h2 align="center">API 2° SEMESTRE - TRINITY </h2>
-<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
+<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/Trinity.png"></p>
 <h3> INTRODUÇÃO </h3>
 <p>Durante o segundo semestre de minha graduação a empresa TECSUS realizou uma parceira com a FATEC - Prof. Jessen Vidal, onde foi apresentado um problema sobre a digitalização das contas de água e luz que ocorria dentro da empresa, a partir disso a equipe propos o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas.</p>
 O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
@@ -117,7 +117,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 </ul>
 
 <h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
-<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
+<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/AIRPlan.jpg"></p>
 <h3>INTRODUÇÃO</h3>
 <p>Durante o 3°Semestre da graduação, através de uma parceria entre a FATEC -  Prof. Jessen Vidal e a empre Embraer, foi proposto o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
 <h3>Tecnologias utilizadas</h3>
@@ -201,7 +201,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 </ul>
 
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
-<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
+<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/DR.png"></p>
 <h3>Introdução</h3> 
 O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
  <h3>Tecnologias utilizadas</h3>          
@@ -257,7 +257,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 
 
 <h2 align="center">API 6º Semestre - D-end</h2>
-<p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
+<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/d-end-logo.jpeg"></p>
 <h3>Introdução</h3> 
 Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
  <h3>Tecnologias utilizadas</h3> 
