@@ -119,7 +119,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 <h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/AIRPlan.jpg"></p>
 <h3>INTRODUÇÃO</h3>
-<p>Durante o 3°Semestre da graduação, através de uma parceria entre a FATEC -  Prof. Jessen Vidal e a empre Embraer, foi proposto o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
+<p>Durante o terceiro semestre da graduação, através de uma parceria entre a FATEC -  Prof. Jessen Vidal e a empresa Embraer, foi proposto o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
