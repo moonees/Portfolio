@@ -2,7 +2,6 @@
 
 <p>
   Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino, com o auxílio do orientador Prof. Diogo Branquinho.</br>
-Orientador Prof. Diogo Branquinho   
 </p>
 <p align="center">
   <a href=""></a> •
