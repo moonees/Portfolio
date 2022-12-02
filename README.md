@@ -184,17 +184,19 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
-  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+  <li>Aprimorei minha criatividade para resoluções de problemas de diferentes formas e maneiras</li>
+  <li>Entendi a importância do planejamento dentro do desenvolvimento e como isso afeta o desenvolvimento do projeto</li>
+  <li>Melhorei minha comunicação interpessoal, obtendo melhoria no repasse dos meus avanços em relação a histórias desenvolvidas</li>
+  <li>Entendimento da importância de cada integrante para a equipe</li>
 </ul>
 <h4>HardSkills</h4>
 <ul>
   <li>Criação do Product Backlog através da metodologia Product Backlog Building.</li>
-  <li>Visão do que seria uma entrega de valor para o cliente.</li>
   <li>Primeiro contato com questões de segurança, pelo uso do Spring Security.</li>
   <li>Uso de padrões de projeto e suas funcionalidades dentro da aplicação.</li>
   <li>Criação de serviço de envio de email para notificação dos convidados do evento, de forma automática e dinâmica.</li>
-  <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
-  <li>Deploy de uma aplicação em nuvem.</li>
+  <li>Conexão com um banco de dados relacional em ambiente de nuvem através da plataforma Azure.</li>
+  <li>Deploy de uma aplicação em nuvem através da plataforma Heroku.</li>
 </ul>
 
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
