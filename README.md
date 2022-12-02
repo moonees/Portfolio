@@ -25,7 +25,7 @@
   </table>
 
 <h2 align="center"> API 1° Semestre - 3RAG </h2>
-<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/3RAG.jpg", width="200px"></p>
+<p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/3RAG.jpg", width="180px"></p>
 <h3> INTRODUÇÃO </h3>
 Projeto desenvolvido em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe através de um tema livre que possibilitasse a integração entre um software e um hardware.
 O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automatizar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile e sensores controlados por um microcontrolador. Através do aplicativo que recebe as informações providas pelo Arduino o usuário consegue visualizar dados como o nível de umidade do solo e nível de iluminação, sabendo se é necessário regar ou não seus cultivos, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas.</p>
