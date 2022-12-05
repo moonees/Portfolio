@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio de API´s</h1>
 
 <p>
-  Esse portifólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino, com o auxílio do orientador Prof. Diogo Branquinho.</br>
+  Esse portfólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino, com o auxílio do orientador Prof. Diogo Branquinho.</br>
 </p>
 <p align="center">
   <a href=""></a> •
@@ -15,7 +15,7 @@
 
 
   <h2 align="center"> Autor </h2>
-  <p> Me chamo Ramon Fernandes, tenho 21 anos e sou de São José dos Campos, obtive o primeiro contato com programação ainda no ensino médio durante meu curso técnico de mecatrônica, porém só fui realmente a obter conhecimento aprofundado quando inicie no curso de Banco de Dados na FATEC - Prof. Jessen Vidal no primeiro semestre de 2020. Atualmente sou desenvolvedor backend junior com foco em Java e Spring Boot na empresa DTI Digital. O modelo de apredizado através de projetos integrados me praparou e forneceu o conhecimento necessário para que eu conseguisse minha primeira oportunidade na área.
+  <p> Me chamo Ramon Fernandes, tenho 21 anos e sou de São José dos Campos, obtive o primeiro contato com programação ainda no ensino médio durante meu curso técnico de mecatrônica, porém só fui realmente a obter conhecimento aprofundado quando inicie no curso de Banco de Dados na FATEC - Prof. Jessen Vidal no primeiro semestre de 2020. Atualmente sou desenvolvedor backend júnior com foco em Java e Spring Boot na empresa DTI Digital. O modelo de aprendizado por projetos integrados me preparou e forneceu o conhecimento necessário para eu conseguir minha primeira oportunidade na área.
   <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1674086400&v=beta&t=IaYYoNDehE9a_aFNQF2aKK4zSF7Z-TxRPlRIA-lr3sY" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
@@ -28,12 +28,12 @@
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/3RAG.jpg", width="180px"></p>
 <h3> INTRODUÇÃO </h3>
 Projeto desenvolvido em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe através de um tema livre que possibilitasse a integração entre um software e um hardware.
-O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automatizar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile e sensores controlados por um microcontrolador. Através do aplicativo que recebe as informações providas pelo Arduino o usuário consegue visualizar dados como o nível de umidade do solo e nível de iluminação, sabendo se é necessário regar ou não seus cultivos, além de oferecer recomendações adequadas sobre diferentes tipos de cutivos e configurações pré-definidas.</p>
+O projeto denominado 3RAG foi desenvolvido visando facilitar e automatizar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile e sensores controlados por um microcontrolador. Através do aplicativo que recebe as informações providas pelo Arduino, o usuário consegue visualizar dados como o nível de umidade do solo e nível de iluminação, sabendo se é necessário regar ou não seus cultivos, além de oferecer recomendações adequadas sobre diferentes tipos de cultivos e configurações pré-definidas.</p>
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
   <li><a href="https://www.kodular.io/">Kondular:</a>
-    <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples atráves da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
+    <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples através da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
   </li>
   <li><a href="https://cplusplus.com/">C++:</a>
     <ul> Linguagem de programação compilada multi-paradigma, foi utilizada durante o projeto para o desenvolvimento na plataforma Arduino para controle dos hardwares.</ul>
@@ -42,7 +42,7 @@ O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automat
     <ul> Placa eletrônica que possui um microcontrolador, utilizada no projeto pra realizar a conexão entre o aplicativo mobile e os sensores de monitoramento de umidade do solo e luminosidade.</ul>
   </li>
   <li><a href="">Sensor de chuva:</a>
-    <ul> Sensor de chuva utilizado durante o projeto para a detecção dos níveis de chuva através da mediçaõ da intensidade das gotas da chuva.</ul>
+    <ul> Sensor de chuva utilizado durante o projeto para a detecção dos níveis de chuva através da medição da intensidade das gotas da chuva.</ul>
   </li>
    <li><a href="">Sensor de umidade do solo:</a>
     <ul> Sensor utilizado para o monitoramento do solo, informando ao aplicativo quando seria necessário a irrigação do cultivo.</ul>
@@ -55,7 +55,7 @@ O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automat
 <p> Durante o projeto aprimorei e obtive conhecimentos em Hard e SoftSkills sendo elas:
 <ul>
   <li><h4> SoftSkills </h4>
-<h5> SoftSkills é um termo utilizado para nomear habilidades inteperssoais e comportamentais </h5>
+<h5> SoftSkills é um termo utilizado para nomear habilidades interpessoais e comportamentais </h5>
 <p> Dentro as habilidades interpessoais, tive um grande aprimoramento em comunicação assertiva, visando sempre facilitar o entendimento do está sendo proposto para a facilitação do entendimento e mapeamento das demandas e ações a serem tomadas dentro do projeto. 
 </li>
   <li><h4> HardSkills </h4>
@@ -67,8 +67,8 @@ O projeto denominado 3RAG foi desenvolvido com o objetivo de facilitar e automat
 <h2 align="center">API 2° SEMESTRE - TRINITY </h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/Trinity.png"></p>
 <h3> INTRODUÇÃO </h3>
-<p>Durante o segundo semestre de minha graduação a empresa TECSUS realizou uma parceira com a FATEC - Prof. Jessen Vidal, onde foi apresentado um problema sobre a digitalização das contas de água e luz que ocorria dentro da empresa, a partir disso a equipe propos o desenvolvimento de uma plataforma desktop que diminuisse a taxa de erro durante o processo de digitalização de contas.</p>
-O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus cliente, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
+<p>Durante o segundo semestre de minha graduação a empresa TECSUS realizou uma parceria com a FATEC - Prof. Jessen Vidal, onde foi apresentado um problema sobre a digitalização das contas de água e luz que ocorria na empresa, a partir disso a equipe realizou o desenvolvimento de uma plataforma desktop que diminuísse a taxa de erro durante o processo de digitalização de contas.</p>
+O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus clientes, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
 
 <h3> Tecnologias utilizadas </h3>
 <ul>
@@ -89,7 +89,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
   </li>
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Como desenvolvedor fiz parte tanto do desenvolvimento Back-end como o Front-end do projeto</p>
+<p>Como desenvolvedor atuei de desenvolvimento backend como o frontend do projeto</p>
 <ul> 
   <li>
     No desenvolvimento back-end trabalhei com a estruturação das classes de modelo, criação das classes de acesso ao banco de dados para realização de inserções, atualizações, deleções e consultas no SGBD MySQL, utilizando a linguagem Java na sua versão 8.
@@ -103,48 +103,48 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 <p> Durante o desenvolvimento do projeto adquiri conhecimentos de hardskills e softskills.
 <h4> SoftSkills </h4>
 <ul>
-  <li> Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo</li>
+  <li> Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado período</li>
 </ul>
 <h4> HardSkills</h4>
 <ul>
-  <li>Metodologia agile</li>
-  Primeiro contato com a metodologia agíl e seus conceitos e qual seus beneficios para o desenvolvimento de software, foram aplicados os conceitos de cerimonias
+  <li>Metodologia ágil</li>
+  Primeiro contato com a metodologia ágil e seus conceitos e qual seus benefícios para o desenvolvimento de software, foram aplicados os conceitos de cerimônias
   utilizando o framework Scrum e definição de cargos como Product Owner, Scrum Master e Desenvolvedores e suas respectivas funções. Foi realizado também o Product Backlog do produto, esta ação favoreceu a equipe na visualização das tarefas necessárias para o exito do projeto e a divisão adequada para cada sprint.
   <li>MySQL</li>
   Durante o desenvolvimento do projeto foi necessário a utilização de um banco de dados para o armazenamento dos dados, para esse caso foi utilizado o SGBD MySQL, com essa ferramenta adquiri conhecimentos básicos de como realizar a conexão entre banco de dados e uma aplicação Java, além das transações como DELETE, INSERT, UPDATE e CREATE. 
   <li>Configurações de ambiente</li>
-  Nossa equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importacia para o que o avanço do projeto ocorra com o mínino de problemas possivéis.
+  A equipe acabou optando pela utilização de um sistema online chamado Gitpod onde era necessário a configuração do ambiente, com esse processo aprendi a como configurar um ambiente para desenvolvimento e a sua importância para o que o avanço do projeto ocorra com o mínimo de problemas possíveis.
 </ul>
 
 <h2 align="center">API 3° SEMESTRE - AIRPLAN </h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/AIRPlan.jpg"></p>
 <h3>INTRODUÇÃO</h3>
-<p>Durante o terceiro semestre da graduação, através de uma parceria entre a FATEC -  Prof. Jessen Vidal e a empresa Embraer, foi proposto o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
+<p>Durante o terceiro semestre da graduação, por uma parceria entre a FATEC -  Prof. Jessen Vidal e a empresa Embraer, foi realizado o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul>Linguagem orientada a objetos utilizada para desenvolvimento da aplicação backend</ul>
   </li>
   <li><a href="https://www.mysql.com/">MySQL:</a>
-    <ul>SGBD relacional utilizado para armazenamento e manipulação dos dados que eram processados pela aplicação</ul>
+    <ul>SGBD relacional utilizado para armazenamento e manipulação dos dados processados pela aplicação</ul>
   </li>
   <li><a href="https://spring.io/">Spring Boot:</a>
-    <ul>SFramework open source para aumento de produtividade e facilitação no desenvolvimento, utilizado principalmente para a criação dos endpoints para comunicação HTTP.</ul>
+    <ul>Framework open source para aumento de produtividade e facilitação no desenvolvimento, utilizado principalmente para a criação dos endpoints para comunicação HTTP.</ul>
   </li> 
   <li><a href="https://spring.io/">Thymeleaf:</a>
-    <ul>Mecanismo de modelo Java XML/XHTML/HTML5 baseado na arquitetura MVC, utilizado durante o projeto no desenvolvimento Front-End da aplicação.</ul>
+    <ul>Mecanismo de modelo Java XML/XHTML/HTML5 baseado na arquitetura MVC, utilizado durante o projeto no desenvolvimento frontend da aplicação.</ul>
   </li> 
 </ul>
 <h3> CONTRIBUIÇÃO PESSOAL PARA O PROJETO </h3>
-<p>Durante o decorrer do projeto atue como desenvolvedor back-end trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTP e na comunicação entre a aplicação back-end com o front-end do projeto.
+<p>Durante o decorrer do projeto atue como desenvolvedor backend trabalhando diretamente na configuração do ambiente para desenvolvimento, implementação das regras de negócio necessárias, desenvolvimento dos endpoints utilizando Spring Boot com verbos HTTP e na comunicação entre a aplicação backend com o frontend do projeto.
 
 <h3> CONHECIMENTOS ADQUIRIDOS</h3>
 <h4> HardSkills</h4>
 <ul>  
   <li>Metodologia Agile</li>
-  Aprimorei meus conhecimos com o Scrum, durante o decorrer do projeto a equipe implantou a realização da cerimonia Review e plannig para conseguimos revisar tudo o que foi realizado durante aquela sprint ou o que foi pendente. Utilizamos a plannig para planejar tudo o que entraria dentro das sprints.
+  Aprimorei meus conhecimentos com o Scrum, durante o decorrer do projeto a equipe implantou a realização da cerimônia Review e plannig para  revisar que foi realizado durante a sprint ou o que ficou pendente e realização da planning para o planejamento do que entraria como prioridade
   <li>Framework Spring Boot</li>
-  Primeiro contato com o framework Spring Boot para facilitar e agilizar o desenvolvimento com Java, adquiri conhecimentos em como realizar requisições com verbos HTTPs utilizando anotações do Spring, além de como realizar a persistência de dados utilizando JPA.
+  Primeiro contato com o framework Spring Boot para facilitar e agilizar o desenvolvimento com Java, adquiri conhecimentos em como realizar requisições com verbos HTTPs utilizando anotações do Spring, além de como, realizar a persistência de dados utilizando JPA.
   <li>Oracle SQL</li>
 Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional Oracle para armazenamento de dados, além de realizar a conexão entre o banco e api em Java. 
 </ul>
@@ -155,38 +155,39 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
-Durante o quarto semestre realizou uma parceira com a empresa Oracle, onde foi proposto o desenvolvimento de uma aplicação web que gerenciasse os agendamento do espaço da casa Oracle, possibilitando o agendamento dos ambientes da casa Oracle respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de da funcionalidade de preenchimento de lista de convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos devido a pandemia do Covid-19.
+Durante o quarto semestre a FATEC - Prof. Jessen-Vidal realizou uma parceria com a empresa Oracle, onde foi apresentado um problema que enfrentavam para realizar o gerenciamento de agendamentos de eventos nos espaços da Casa Oracle. 
+Como solução foi realizado o desenvolvimento de uma aplicação web que gerenciasse os agendamentos do espaço da casa Oracle, visando deixar mais intuitivo e produtivo o cadastro de eventos,  respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de criação de listas para convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos e vacinação devido à pandemia da Covid-19.
 <h3>Tecnologias utilizadas</h3>
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Oracle:</a>
-    <ul> Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação</ul>
+  <li><a href="https://www.oracle.com/br/database/">Oracle SGBD:</a>
+    <ul> Banco de dados relacional utilizado para armazenar os dados  processados pela aplicação</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
+  <li><a href="https://spring.io/">Spring Boot:</a>
     <ul> Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
   </li> 
-  <li><a href="https://www.java.com/pt-BR">AzureCloud:</a>
-    <ul> Plataforma de serviços em nuvem, utilizado para a criação do banco de dados em nuvem</ul>
+  <li><a href="https://azure.microsoft.com/pt-br/">Azure Cloud:</a>
+    <ul> Plataforma de serviços em nuvem, utilizado para a disponibilização do banco de dados em nuvem</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Heroku:</a>
+  <li><a href="https://www.heroku.com/">Heroku:</a>
     <ul> Plataforma de serviços em nuvem, utilizado para realização da disponibilização da aplicação em nuvem</ul>
   </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
-Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deploy da aplicação em nuvem</br>
+Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy da aplicação em nuvem</br>
 <ul>
-  <li>Back-end: Como desenvolvedor back-end atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, além de ter a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento.</li>
-  <li>Deploy: Realização do deploy da aplicação na Heroku e do Banco de dados no AzureCloud, além de participar da configuração do ambiente para que ambos os deploys ocorresse com sucesso</li>
+  <li>Backend: Como desenvolvedor backend atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, além de ter a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento.</li>
+  <li>Deploy: Realização do deploy da aplicação na Heroku e do Banco de dados no Azure Cloud, além de participar da configuração do ambiente para que ambos os deploys ocorressem com sucesso</li>
 </ul>
 
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
   <li>Aprimorei minha criatividade para resoluções de problemas de diferentes formas e maneiras</li>
-  <li>Entendi a importância do planejamento dentro do desenvolvimento e como isso afeta o desenvolvimento do projeto</li>
+  <li>Entendimento da importância do planejamento no desenvolvimento e como isso afeta o desenvolvimento do projeto</li>
   <li>Melhorei minha comunicação interpessoal, obtendo melhoria no repasse dos meus avanços em relação a histórias desenvolvidas</li>
   <li>Entendimento da importância de cada integrante para a equipe</li>
 </ul>
@@ -194,8 +195,8 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <ul>
   <li>Criação do Product Backlog através da metodologia Product Backlog Building.</li>
   <li>Primeiro contato com questões de segurança, pelo uso do Spring Security.</li>
-  <li>Uso de padrões de projeto e suas funcionalidades dentro da aplicação.</li>
-  <li>Criação de serviço de envio de email para notificação dos convidados do evento, de forma automática e dinâmica.</li>
+  <li>Uso de padrões de projeto e suas funcionalidades na aplicação.</li>
+  <li>Criação de serviço de envio de e-mail para notificação dos convidados do evento, de forma automática e dinâmica.</li>
   <li>Conexão com um banco de dados relacional em ambiente de nuvem através da plataforma Azure.</li>
   <li>Deploy de uma aplicação em nuvem através da plataforma Heroku.</li>
 </ul>
@@ -203,34 +204,34 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/DR.png"></p>
 <h3>Introdução</h3> 
-O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos com o intuito da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
+O Projeto foi desenvolvido entre a parceria SPC Brasil com a FATEC - Prof. Jessen-Vidal com o objetivo da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">SQL Server:</a>
-    <ul> Banco de dados relacional utilizado para armazenar as os dados que são processados pela aplicação além da criação de um Data Warehouse para análise de             dados</ul>
+  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server:</a>
+    <ul> Banco de dados relacional utilizado para armazenar os dados processados pela aplicação, além da criação de um Data Warehouse para análise de             dados</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Spring Boot:</a>
-    <ul>Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento do banco de dados, criação dos endpoints para comunicação       HTTP e criação das classes de segurança do projeto</ul>
+  <li><a href="https://spring.io/">Spring Boot:</a>
+    <ul>Framework para aumento de produtividade e facilitação no desenvolvimento, utilizado para mapeamento das entidades do banco de dados, criação dos endpoints para comunicação HTTP e criação das classes de segurança do projeto</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Power BI:</a>
+  <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI:</a>
     <ul> Plataforma utilizada para exibição da análise de dados através de gráficos e relatórios</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Microsoft Azure:</a>
+  <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure:</a>
     <ul>Plataforma utilizada para deploy do banco de dados SQL Server em nuvem</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">CircleCI:</a>
+  <li><a href="https://circleci.com/">CircleCI:</a>
     <ul>Ferramenta utilizada para realização da entrega contínua e integração contínua</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">VueJs:</a>
+  <li><a href="https://vuejs.org/">VueJs:</a>
     <ul>Framework para desenvolvimento de aplicações web com um código open source</ul>
   </li>
-  <li><a href="https://www.java.com/pt-BR">Figma:</a>
+  <li><a href="https://www.figma.com/">Figma:</a>
     <ul>Ferramenta utilizada para prototipar as telas do sistemas</ul>
   </li>
-   <li><a href="https://www.java.com/pt-BR">Heroku:</a>
+   <li><a href="https://www.heroku.com/">Heroku:</a>
     <ul>Plataforma utilizada para realização do deploy da aplicação</ul>
   </li>
 </ul>
@@ -238,19 +239,19 @@ O Projeto foi desenvolvido entre a SPC Brasil e a FATEC São José dos Campos co
 <h3>Contribuições pessoais para o projeto</h3> 
 Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deploy da aplicação em nuvem</br>
 <ul>
-  <li>Back-end: Como desenvolvedor back-end atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e faceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio.</li>
+  <li>Backend: Como desenvolvedor backend atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis  de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio.</li>
   <li>Deploy: Realização do deploy da aplicação na Heroku, além da configuração da pipeline para a realização da entrega e integração continua</li>
 </ul>
 
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
-  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado período.</br></li>
 </ul>
 <h4>HardSkills</h4>
 <ul>
   <li>Criação de pipelines para a entegra e integração continua.</li>
-  <li>Aprimoramento das habilidades.</li>
+  <li>Aprimoramento das habilidades com a linguagem Java.</li>
   <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
   <li>Deploy do banco de dados em nuvem.</li>
 </ul>
