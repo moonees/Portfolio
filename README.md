@@ -155,7 +155,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
-Durante o quarto semestre a FATEC - Prof. Jessen-Vidal realizou uma parceria com a empresa Oracle, onde foi apresentado um problema que enfrentavam para realizar o gerenciamento de agendamentos de eventos nos espaços da Casa Oracle. 
+Durante o quarto semestre a FATEC - Prof. Jessen Vidal realizou uma parceria com a empresa Oracle, onde foi apresentado um problema que enfrentavam para realizar o gerenciamento de agendamentos de eventos nos espaços da Casa Oracle. 
 Como solução foi realizado o desenvolvimento de uma aplicação web que gerenciasse os agendamentos do espaço da casa Oracle, visando proporcionar um ambiente de agendamentos mais intuitivo e produtivo para o cadastro de eventos, respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de criação de listas para convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos e vacinação devido à pandemia da Covid-19.
 <h3>Tecnologias utilizadas</h3>
  <ul>
@@ -204,7 +204,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/DR.png"></p>
 <h3>Introdução</h3> 
-Durante o quinto semestre da graduação a empresa SPC Brasil realizou uma parceria com a FATEC - Prof. Jessen-Vidal com o interesse do desenvolvimento de uma ferramenta que  aumentasse seu número de vendas e clientes.
+Durante o quinto semestre da graduação a empresa SPC Brasil realizou uma parceria com a FATEC - Prof. Jessen Vidal com o interesse do desenvolvimento de uma ferramenta que  aumentasse seu número de vendas e clientes.
 Como solução  foi desenvolvido um Data Warehouse onde era centralizado os dados de clientes já presentes na empresa, a partir desses dados, foi realizado a criação de uma IA  que prospecta possíveis novos clientes para prover o aumento das vendas e o consumo dos produtos SPC com base no padrão de clientes já existentes, gerando relatórios e informações sobre os dados processados, para a exibição no Power BI.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
@@ -261,7 +261,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h2 align="center">API 6º Semestre - D-end</h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/d-end-logo.jpeg"></p>
 <h3>Introdução</h3> 
-Projeto realizado entre a empresa Dom Rock e a FATEC - Prof. Jessen-Vidal com a proposta do desenvolvimento de uma ferramenta que possibilite a análise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos débitos de contas de convênio, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
+Projeto realizado entre a empresa Dom Rock e a FATEC - Prof. Jessen Vidal com a proposta do desenvolvimento de uma ferramenta que possibilite a análise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos débitos de contas de convênio, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
  <h3>Tecnologias utilizadas</h3> 
  <ul>
  <li><a href="https://www.python.org/">Python:</a>
