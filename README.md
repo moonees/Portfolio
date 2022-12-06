@@ -15,7 +15,7 @@
 
 
   <h2 align="center"> Autor </h2>
-  <p> Me chamo Ramon Fernandes, tenho 21 anos e sou de São José dos Campos, obtive o primeiro contato com programação ainda no ensino médio durante meu curso técnico de mecatrônica, porém só fui realmente a obter conhecimento aprofundado quando inicie no curso de Banco de Dados na FATEC - Prof. Jessen Vidal no primeiro semestre de 2020. Atualmente sou desenvolvedor backend júnior com foco em Java e Spring Boot na empresa DTI Digital. O modelo de aprendizado por projetos integrados me preparou e forneceu o conhecimento necessário para eu conseguir minha primeira oportunidade na área.
+  <p> Me chamo Ramon Fernandes, tenho 21 anos e sou de São José dos Campos, obtive o primeiro contato com programação ainda no ensino médio durante meu curso técnico de eletroeletrônica no <a href="https://saojosedoscampos.sp.senai.br/">SENAI</a>. Ingressei na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC</a> no curso de Análise e Desenvolvimento de Sistemas no primeiro semestre de 2020, porém no segundo semestre realizei a transferência para o curso de Banco de Dados. Atualmente sou desenvolvedor backend júnior com foco em Java e Spring Boot na empresa DTI Digital. O modelo de aprendizado por projetos integrados realizado durante o curso me preparou e forneceu o conhecimento necessário em ferramentas e tecnologias para me destacar em processos seletivos e conseguir minha primeira oportunidade na área.
   <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rosariorf/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1674086400&v=beta&t=IaYYoNDehE9a_aFNQF2aKK4zSF7Z-TxRPlRIA-lr3sY" width="200px;" alt=""/><br/><b>Ramon Rosario</b></a>
@@ -156,7 +156,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 <p align="center"> <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/banner.png"></p>
 <h3>Introdução</h3> 
 Durante o quarto semestre a FATEC - Prof. Jessen-Vidal realizou uma parceria com a empresa Oracle, onde foi apresentado um problema que enfrentavam para realizar o gerenciamento de agendamentos de eventos nos espaços da Casa Oracle. 
-Como solução foi realizado o desenvolvimento de uma aplicação web que gerenciasse os agendamentos do espaço da casa Oracle, visando deixar mais intuitivo e produtivo o cadastro de eventos,  respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de criação de listas para convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos e vacinação devido à pandemia da Covid-19.
+Como solução foi realizado o desenvolvimento de uma aplicação web que gerenciasse os agendamentos do espaço da casa Oracle, visando proporcionar um ambiente de agendamentos mais intuitivo e produtivo para o cadastro de eventos, respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de criação de listas para convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos e vacinação devido à pandemia da Covid-19.
 <h3>Tecnologias utilizadas</h3>
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
@@ -204,7 +204,8 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/DR.png"></p>
 <h3>Introdução</h3> 
-O Projeto foi desenvolvido entre a parceria SPC Brasil com a FATEC - Prof. Jessen-Vidal com o objetivo da criação de um Data Warehouse para a centralização dos dados da empresa. Através de uma IA o projeto prospecta novos clientes para prover o aumento das vendas e o consumo dos produtos SPC, gerando relatórios e informações sobre os dados processados.
+Durante o quinto semestre da graduação a empresa SPC Brasil realizou uma parceria com a FATEC - Prof. Jessen-Vidal com o interesse do desenvolvimento de uma ferramenta que  aumentasse seu número de vendas e clientes.
+Como solução  foi desenvolvido um Data Warehouse onde era centralizado os dados de clientes já presentes na empresa, a partir desses dados, foi realizado a criação de uma IA  que prospecta possíveis novos clientes para prover o aumento das vendas e o consumo dos produtos SPC com base no padrão de clientes já existentes, gerando relatórios e informações sobre os dados processados, para a exibição no Power BI.
  <h3>Tecnologias utilizadas</h3>          
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
@@ -260,31 +261,31 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h2 align="center">API 6º Semestre - D-end</h2>
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/d-end-logo.jpeg"></p>
 <h3>Introdução</h3> 
-Projeto realizado entre a empresa Dom Rock e FATEC São José dos com a proposta do desenvolvimento de uma ferramenta que possibilite a ánalise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos debitos de contas, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
+Projeto realizado entre a empresa Dom Rock e a FATEC - Prof. Jessen-Vidal com a proposta do desenvolvimento de uma ferramenta que possibilite a análise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos débitos de contas de convênio, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
  <h3>Tecnologias utilizadas</h3> 
  <ul>
- <li><a href="https://www.java.com/pt-BR">Python:</a>
+ <li><a href="https://www.python.org/">Python:</a>
     <ul>Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB</ul>
  </li>
-  <li><a href="https://www.java.com/pt-BR">MongoDB:</a>
+  <li><a href="https://www.mongodb.com/home">MongoDB:</a>
     <ul>Banco de dados não relacional orientado a documentos. Utilizado para o armazenamento dos dados providos dos arquivos ".csv". Junto ao MongoDB foi utilizado o Aggregation Framework para a realização da lógica que identifica inconsistências nos dados providos entre Cliente e Empresa</ul>
  </li>
- <li><a href="https://www.java.com/pt-BR">SQl Server:</a>
+ <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQl Server:</a>
     <ul>Banco de dados relacional, nele foram realizados os scripts SQL para prototipação das colunas e tabelas que provem o Data Warehouse</ul>
  </li>
-  <li><a href="https://www.java.com/pt-BR">Power BI:</a>
+  <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI:</a>
     <ul>Serviço de análise de negócios, utilizado durante o projeto para o consumo do Data Warehouse, gerando gráficos e métricas das análises realizadas</ul>
  </li>
- <li><a href="https://www.java.com/pt-BR">Microsoft Azure:</a>
-    <ul>Plataforma de computação em nuvem utilizada para deploy do Data Warehouse nuvem</ul>
+ <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure:</a>
+    <ul>Plataforma de computação em nuvem utilizada para deploy do Data Warehouse em nuvem</ul>
  </li>
-   <li><a href="https://www.java.com/pt-BR">Jira:</a>
+   <li><a href="https://www.atlassian.com/br/software/jira">Jira:</a>
     <ul> Ferramenta utilizada para a definição, acompanhamento e priorização de tarefas</ul>
  </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
-Durante o decorrer do projeto atuei diretamente na parte do desenvolvimento dos Scripts em Python para alimentar o banco de dados MongoDB, fui responsável pelo script que lê o arquivo ".csv"  e realiza o tratamento do dado com o objetivo de deixa-lo legivel para persistência no MongoDB, para isso utilizei da biblioteca pandas que possibilita a análise e a manipulação dos dados recebidos.
+Durante o decorrer do projeto atuei diretamente na parte do desenvolvimento dos scripts em Python para alimentar o banco de dados MongoDB, fui responsável pelo script que lê o arquivo ".csv"  e realiza o tratamento do dado para lo deixa legível para persistência no MongoDB, para isso utilizei da biblioteca pandas que possibilita a análise e a manipulação dos dados recebidos.
 </br>
 Atuei também no desenvolvimento do script de criação de logs da aplicação durante a execução de seus processos. O intuito dos logs é monitorar se durante o processo ocorrem ações inesperadas como erros ou itens executados sem necessidade. Para a realização dessa funcionalidade utilizei a biblioteca Logging do Python.
 </br>
@@ -293,14 +294,14 @@ Contribui também para a criação das collections no MongoDB onde seriam persis
 <ul>
     <li>Criação dos scripts em Python</li>
     <li>Alimentação do MongoDB</li>
-    <li>Monitoramento dos processos atráves dos Logs</li>
+    <li>Monitoramento dos processos através dos logs da aplicação</li>
 </ul> 
 
 
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
-  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado periodo.</br></li>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado período.</br></li>
 </ul>
 <h4>HardSkills</h4>
 <ul>
