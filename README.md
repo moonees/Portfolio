@@ -174,6 +174,9 @@ Como solução foi realizado o desenvolvimento de uma aplicação web que gerenc
   <li><a href="https://www.heroku.com/">Heroku:</a>
     <ul> Plataforma de serviços em nuvem, utilizado para realização da disponibilização da aplicação em nuvem</ul>
   </li>
+   <li><a href="https://angular.io/">Angular:</a>
+    <ul> Utilizado para o desenvolvimento frontend do projeto, um framework para desenvolvimento de aplicações web com um código open source com base em TypeScript</ul>
+  </li>
 </ul>
 
 <h3>Contribuições pessoais para o projeto</h3> 
