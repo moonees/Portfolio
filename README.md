@@ -179,7 +179,7 @@ Como solução foi realizado o desenvolvimento de uma aplicação web que gerenc
 <h3>Contribuições pessoais para o projeto</h3> 
 Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy da aplicação em nuvem</br>
 <ul>
-  <li>Backend: Como desenvolvedor backend atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, além de ter a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento.</li>
+  <li>Backend: Como desenvolvedor backend atuei diretamente na decisão arquitetural do projeto, optando junto ao grupo pela arquitetura MVC por ser uma das arquiteturas mais reconhecidas e fáceis de se trabalhar, mapeamento das entidades e conexão entre aplicação e banco de dados, configurações de segurança do projeto, implementação das regras de negócio, tive a oportunidade de implementar os padrões de projeto PROXY(Através da implementação das interfaces "Repository" para comunicação com o banco) e FACADE(Utilizando das anotações para definição de chamadas REST) durante o desenvolvimento, além de trabalhar com os tratamentos de exceções da aplicação</li>
   <li>Deploy: Realização do deploy da aplicação na Heroku e do Banco de dados no Azure Cloud, além de participar da configuração do ambiente para que ambos os deploys ocorressem com sucesso</li>
 </ul>
 
