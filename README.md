@@ -200,9 +200,10 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy
   <li>Conexão com um banco de dados relacional em ambiente de nuvem através da plataforma Azure.</li>
   <li>Deploy de uma aplicação em nuvem através da plataforma Heroku.</li>
 </ul>
-
+  
+ <h3> Demonstração de funcionalidade do projeto </h3>
  <details>
- <summary>Demonstração gráficos aréa do vendedor</summary>
+ <summary>Aprovação e priorização de eventos</summary>
  <br>
   <img style="border-radius: 50%;" src="imagens/Aprendizagem por Projetos Integrados Fatec SJC 2021-2 - 4º BD - Future Sight - Corte.gif" />
  </details>
