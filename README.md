@@ -30,7 +30,7 @@
 Projeto desenvolvido em ambiente acadêmico durante meu primeiro semestre do curso de graduação em Banco de Dados, com a intenção de estimular e apresentar para os ingressantes do curso o modelo de trabalho prático e em equipe através de um tema livre que possibilitasse a integração entre um software e um hardware.
 O projeto denominado 3RAG foi desenvolvido visando facilitar e automatizar o monitoramento e manutenção de uma horta, com especificações e recomendações para cada alimento cultivado através de uma aplicação mobile e sensores controlados por um microcontrolador. Através do aplicativo que recebe as informações providas pelo Arduino, o usuário consegue visualizar dados como o nível de umidade do solo e nível de iluminação, sabendo se é necessário regar ou não seus cultivos, além de oferecer recomendações adequadas sobre diferentes tipos de cultivos e configurações pré-definidas.</p>
 
-<h3> Tecnologias utilizadas </h3>
+<h3> TECNOLOGIAS UTILIZADAS </h3>
 <ul>
   <li><a href="https://www.kodular.io/">Kondular:</a>
     <ul> Plataforma de desenvolvimento online que permite estruturar aplicativos de forma simples através da programação em blocos, utilizada para realizar o desenvolvimento das lógicas e regras de negócio da aplicação</ul>
@@ -70,7 +70,7 @@ O projeto denominado 3RAG foi desenvolvido visando facilitar e automatizar o mon
 <p>Durante o segundo semestre de minha graduação a empresa TECSUS realizou uma parceria com a FATEC - Prof. Jessen Vidal, onde foi apresentado um problema sobre a digitalização das contas de água e luz que ocorria na empresa, a partir disso a equipe realizou o desenvolvimento de uma plataforma desktop que diminuísse a taxa de erro durante o processo de digitalização de contas.</p>
 O software desktop desenvolvido tem como o objetivo principal possibilitar a digitalização de contas de água e luz dos seus clientes, facilitando para seus usuários o cadastro de registros, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores junto a formação de relatórios sobre cada cliente</p>
 
-<h3> Tecnologias utilizadas </h3>
+<h3> TECNOLOGIAS UTILIZADAS </h3>
 <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul>Linguagem orientada a objetos utilizada para desenvolvimento da aplicação desktop, desenvolvimento das regras de negócio e persistência de dados no banco</ul>
@@ -120,7 +120,7 @@ O software desktop desenvolvido tem como o objetivo principal possibilitar a dig
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/AIRPlan.jpg"></p>
 <h3>INTRODUÇÃO</h3>
 <p>Durante o terceiro semestre da graduação, por uma parceria entre a FATEC -  Prof. Jessen Vidal e a empresa Embraer, foi realizado o desenvolvimento de uma aplicação  para a otimização, controle, customização e leitura de manuais de aeronaves, possibilitando o armazenamento, versionamento e geração de maneira eficaz desses documentos além de manter o padrão dos arquivos em PDF, seguindo as regras e especificações apontadas.</p>
-<h3>Tecnologias utilizadas</h3>
+<h3>TECNOLOGIAS UTILIZADAS</h3>
 <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul>Linguagem orientada a objetos utilizada para desenvolvimento da aplicação backend</ul>
@@ -157,7 +157,7 @@ Adquiri conhecimentos de como configurar e utilizar o banco de dados relacional 
 <h3>Introdução</h3> 
 Durante o quarto semestre a FATEC - Prof. Jessen Vidal realizou uma parceria com a empresa Oracle, onde foi apresentado um problema que enfrentavam para realizar o gerenciamento de agendamentos de eventos nos espaços da Casa Oracle. 
 Como solução foi realizado o desenvolvimento de uma aplicação web que gerenciasse os agendamentos do espaço da casa Oracle, visando proporcionar um ambiente de agendamentos mais intuitivo e produtivo para o cadastro de eventos, respeitando o limite máximo de pessoas para cada espaço, priorização e aprovação de eventos, além de criação de listas para convidados, palestrantes e funcionários, ressaltando a importância sobre as regras de afastamentos e vacinação devido à pandemia da Covid-19.
-<h3>Tecnologias utilizadas</h3>
+<h3>TECNOLOGIAS UTILIZADAS</h3>
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
@@ -206,7 +206,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy
 <h3>Introdução</h3> 
 Durante o quinto semestre da graduação a empresa SPC Brasil realizou uma parceria com a FATEC - Prof. Jessen Vidal com o interesse do desenvolvimento de uma ferramenta que  aumentasse seu número de vendas e clientes.
 Como solução  foi desenvolvido um Data Warehouse onde era centralizado os dados de clientes já presentes na empresa, a partir desses dados, foi realizado a criação de uma IA  que prospecta possíveis novos clientes para prover o aumento das vendas e o consumo dos produtos SPC com base no padrão de clientes já existentes, gerando relatórios e informações sobre os dados processados, para a exibição no Power BI.
- <h3>Tecnologias utilizadas</h3>          
+ <h3>TECNOLOGIAS UTILIZADAS</h3>          
  <ul>
   <li><a href="https://www.java.com/pt-BR">Java:</a>
     <ul> Linguagem orientada a objetos utilizada para desenvolvimento das regras de negócio da aplicação</ul>
@@ -262,7 +262,7 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <p align="center"> <img src="https://github.com/moonees/Portifolio/blob/main/imagens/d-end-logo.jpeg"></p>
 <h3>Introdução</h3> 
 Projeto realizado entre a empresa Dom Rock e a FATEC - Prof. Jessen Vidal com a proposta do desenvolvimento de uma ferramenta que possibilite a análise de dados de seus clientes com o intuito de identificar e visualizar inconsistências nos débitos de contas de convênio, auxiliar na criação de um plano de ação para evitar futuras inconsistências e gerar gráficos e métricas sobre as análises realizadas.
- <h3>Tecnologias utilizadas</h3> 
+ <h3>TECNOLOGIAS UTILIZADAS</h3> 
  <ul>
  <li><a href="https://www.python.org/">Python:</a>
     <ul>Linguagem de alto nível, interpretada de scripts. Utilizada no projeto para realização de scripts que consomem os arquivos ".csv" e alimentam o MongoDB</ul>
