@@ -201,8 +201,11 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento backend e deploy
   <li>Deploy de uma aplicação em nuvem através da plataforma Heroku.</li>
 </ul>
 
-<h3> DEMONSTRAÇÃO DA APLICAÇÃO</H3>
-<img style="border-radius: 50%;" src="(https://github.com/moonees/Portifolio/blob/main/imagens/Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-2%20-%204%C2%BA%20BD%20-%20Future%20Sight%20-%20Corte.gif)"/>
+ <details>
+ <summary>Demonstração gráficos aréa do vendedor</summary>
+ <br>
+  <img style="border-radius: 50%;" src="imagens/Aprendizagem por Projetos Integrados Fatec SJC 2021-2 - 4º BD - Future Sight - Corte.gif" />
+ </details>
 
 
 <h2 align="center">API 5º Semestre - Data Rangers</h2>
