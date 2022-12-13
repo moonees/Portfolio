@@ -264,9 +264,9 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h4>HardSkills</h4>
 <ul>
   <li>Atuei no desenvolvimento das pipelines, primeiro contato com quesitos de entegra e integração continua.</li>
-  <li>Aprimoramento linguagem Java durante o desenvolvimento backend.</li>
-  <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
-  <li>Deploy do banco de dados em nuvem.</li>
+  <li>Aprimoramento meus conhecimentos na linguagem Java durante o desenvolvimento backend.</li>
+  <li>Conexão com o banco de dados relacional disponibilizado na AzureCloud</li>
+  <li>Disponibilização do banco de dados no ambiente de nuvem da AzureCloud</li>
 </ul>
 
 
