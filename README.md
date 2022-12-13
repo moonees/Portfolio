@@ -258,12 +258,13 @@ Durante o decorrer do projeto atuei na parte de desenvolvimento back-end e deplo
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
-  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado período.</br></li>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, através do repasse de conhecimento entre os integrantes da equipe</br></li>
+  <li>Aprimorei minhagestão de tempo para conseguir conciliar o tempo entre o desenvolvimento de cada tarefa e também o tempo de estudo necessário para adquirir conhecimentos técnico para desenvolver a tarefa</li>
 </ul>
 <h4>HardSkills</h4>
 <ul>
-  <li>Criação de pipelines para a entegra e integração continua.</li>
-  <li>Aprimoramento das habilidades com a linguagem Java.</li>
+  <li>Atuei no desenvolvimento das pipelines, primeiro contato com quesitos de entegra e integração continua.</li>
+  <li>Aprimoramento linguagem Java durante o desenvolvimento backend.</li>
   <li>Conexão com um banco de dados relacional em ambiente de nuvem.</li>
   <li>Deploy do banco de dados em nuvem.</li>
 </ul>
@@ -303,20 +304,21 @@ Atuei também no desenvolvimento do script de criação de logs da aplicação d
 Contribui também para a criação das collections no MongoDB onde seriam persistidos os dados providos dos arquivos ".csv"
 </br>
 <ul>
-    <li>Criação dos scripts em Python</li>
-    <li>Alimentação do MongoDB</li>
-    <li>Monitoramento dos processos através dos logs da aplicação</li>
+    <li>Criação de scripts em Python para realizar tratamento e persistência de dados no MongoDB</li>
+    <li>Conexaõ entre scripts desenvolvidos em Python e o MongoDB</li>
+    <li>Monitoramento da aplicação atráves de sistemas de logs, que identificam arquivos que estão sendo processados e em qual passo está sendo utilizado o documento</li>
 </ul> 
 
 
 <h3>CONHECIMENTOS ADQUIRIDOS</h3>
 <h4>SoftSkills</h4>
 <ul>
-  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, além do aprimoramento da gestão de tempo para conseguir realizar cada tarefa em seu determinado período.</br></li>
+  <li>Durante o processo de desenvolvimento aprimorei minhas relações interpessoais, através do repasse de conhecimento entre os integrantes da equipe</br></li>
+  <li>Aprimorei minhagestão de tempo para conseguir conciliar o tempo entre o desenvolvimento de cada tarefa e também o tempo de estudo necessário para adquirir conhecimentos técnico para desenvolver a tarefa</li>
 </ul>
 <h4>HardSkills</h4>
 <ul>
-  <li>Criação de collections no MongoDB.</li>
-  <li>Desenvolvimento de scripts em Python.</li>
-  <li>Conexão entre MongoDB e Python.</li>
+  <li>Adquiri conhecimento sobre banco de dados não relacional, utilizando o MongoDB para persistência dos dados</li>
+  <li>Aprimorei meus conhecimentos na linguagem Python durante o desenvolvimento de scripts para leitura tratamentos e persistência no MongoDB de dados providos através do csv</li>
+  <li>Monitoração de aplicações e suas vantagens durante o desenvolvimento através de logs da aplicação </li>
 </ul>
