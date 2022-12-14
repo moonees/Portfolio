@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio de API´s</h1>
+<h1 align="center">Portfólio de API´s</h1>
 
 <p>
   Esse portfólio acadêmico foi desenvolvido para a apresentar os projetos que realizei durante minha graduação no curso superior de tecnologia em Banco de Dados na faculdade FATEC - Prof. Jessen Vidal junto a empresas parceiras a instituição de ensino, com o auxílio do orientador Prof. Diogo Branquinho.</br>
